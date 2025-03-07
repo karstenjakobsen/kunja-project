@@ -140,6 +140,10 @@ Kun de **ikke-passive** anpartshavere i økonomigruppen kan træffe disse økono
 - En anpartshaver ekskluderes **ikke** alene på grund af manglende rettidig levering af det aftalte beløb.  
 - Grov misligholdelse af andre dele af aftalen kan dog føre til eksklusion, men selv her udløses ingen udbetaling før ejendomskøbet er gennemført, jf. pkt. 3.4.
 
+### 8.3 Eksklusion
+- Forslag (Karsten): Man kunne skrive at man kan smide en smide en anpartshaver ud hvis der er fuld samtykke fra alle anpartshavere. Det bliver svært at skrive alle forhold ind. I sidste ende er det fællesskabets beslutning.
+
+
 ---
 
 ## 9. Konfliktløsning
