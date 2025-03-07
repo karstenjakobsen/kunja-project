@@ -62,6 +62,7 @@ Der er i alt 14 anpartshavere med lige store anparter. En anpart kan **ikke** s�
 - **Passive (4 personer)**: Martin, Thor, Einer og Simone – de er noteret som passive, og udgangspunktet er, at der **ikke** kan tilføjes flere passive anpartshavere, medmindre der opnås **100% samtykke** i en sociokratisk proces.
 
 (Karsten) - Fjerne mulighed for at øge sin "andel" ved at generere overskud i selskabet. Det bliver bøvlet at regne ud og man kan ikke få sin "andel" med ud igen senere da pengene ikke er mærket som kapitalundskud
+(Simone) Forslag om at passive investorer kan finde kærester som også må komme ind under "passiv"
 
 ### 3.3 Frysning af indbetalinger (generelt)  
 Alle indbetalte beløb (kontante afdrag, overskudsbidrag, up front osv.) er “frosset” i Selskabet. Ingen anpartshaver kan få sine penge retur, medmindre bestemmelserne i denne aftale giver mulighed herfor.
@@ -71,7 +72,7 @@ Alle indbetalte beløb (kontante afdrag, overskudsbidrag, up front osv.) er “f
 - Selv hvis en anpartshaver træder ud og en ny køber overtager anparten, udløses ingen udbetaling før overtagelsen af ejendommen.
 - Formålet er at forhindre, at Selskabets kapitalgrundlag udhules, så ejendommen **ikke** kan erhverves.
 
-(Simone?): Mulighed for at indefrossede midler kan købes ud af bye spirer
+(Simone): Mulighed for at indefrossede midler kan købes ud af nye spirer
 (Simone) Fjerne indefrysning til 2035
 
 ---
@@ -105,6 +106,8 @@ Der foretages **ingen** årlig udlodning af overskud. Ethvert overskud bliver i 
 - Ved **opløsning** af Selskabet (eller salg af alle væsentlige aktiver) fordeles et eventuelt **slut-overskud** efter følgende rækkefølge:
   1. **Tilbagebetaling af indskud**: Først får alle (både passive og ikke-passive) deres faktiske indbetaling retur (jf. pkt. 3.4 om frysning indtil ejendomskøb/31.12.2030).  
   2. **Fordeling af resterende overskud**: Hvis der stadig er overskud, fordeles dette **udelukkende** blandt dem, der på et hvilket som helst tidspunkt har været ikke-passive anpartshavere, proportionalt med antallet af måneder, de har været ikke-passive.
+
+Simone: Punkt om at passive medlemmer umiddelbart ikek er ti betragtning til husleje nedsættelser hvis det skulle komme til dette.
 
 ---
 
@@ -153,6 +156,7 @@ Kun de **ikke-passive** anpartshavere i økonomigruppen kan træffe disse økono
 ### 8.3 Eksklusion
 - Forslag (Tommy/Karsten): Man kunne skrive at man kan smide en smide en anpartshaver ud hvis der er fuld samtykke fra alle anpartshavere. Det bliver svært at skrive alle forhold ind. I sidste ende er det fællesskabets beslutning.
 
+(Karsten/Simone) - Kan man få sinbe penge igen hvis man bliver "smidt ud" ? Skal det være en vurderingssag eller skal vi skive lidt om det ? 
 
 (Simone) Nyt punkt: Passive investorer har ikke indsigelsesmulighed på nytilflyttere. Grunden er at man ikke skal kunne stoppe det økonomiske mål som aktive medlemmer har sat.
 
