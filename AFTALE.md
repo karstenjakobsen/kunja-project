@@ -61,6 +61,8 @@ Der er i alt 14 anpartshavere med lige store anparter. En anpart kan **ikke** s�
   - Detaljerne fremgår af den individuelle afdrags-/overskudsplan (Bilag A).  
 - **Passive (4 personer)**: Martin, Thor, Einer og Simone – de er noteret som passive, og udgangspunktet er, at der **ikke** kan tilføjes flere passive anpartshavere, medmindre der opnås **100% samtykke** i en sociokratisk proces.
 
+(Karsten) - Fjerne mulighed for at øge sin "andel" ved at generere overskud i selskabet. Det bliver bøvlet at regne ud og man kan ikke få sin "andel" med ud igen senere da pengene ikke er mærket som kapitalundskud
+
 ### 3.3 Frysning af indbetalinger (generelt)  
 Alle indbetalte beløb (kontante afdrag, overskudsbidrag, up front osv.) er “frosset” i Selskabet. Ingen anpartshaver kan få sine penge retur, medmindre bestemmelserne i denne aftale giver mulighed herfor.
 
