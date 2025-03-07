@@ -4,7 +4,8 @@
 Denne aftale (“Aftalen”) er indgået mellem:
 
 - **Selskabet**:  
-  [Navn / CVR-nr. / Adresse]  
+  Kunja ApS
+  Kirkeby Sand 19, 5771 Stenstrup
   (i det følgende kaldet “Selskabet”).
 
 - **Anpartshaverne** (14 i alt):
@@ -12,16 +13,16 @@ Denne aftale (“Aftalen”) er indgået mellem:
   1. **Anna** (up front)  
   2. **Sanne** (up front)  
   3. **Tommy** (up front)  
-  4. **Dario** (afbetaling/overskud)  
-  5. **Marita** (afbetaling/overskud)  
-  6. **Millo** (afbetaling/overskud)  
-  7. **Karsten** (afbetaling/overskud)  
+  4. **Dario** (afbetaling)  
+  5. **Marita** (afbetaling)  
+  6. **Millo** (afbetaling)  
+  7. **Karsten** (afbetaling)  
   8. **Martin** (passiv)  
   9. **Thor** (passiv)  
   10. **Einer** (passiv)  
-  11. **Josefa** (afbetaling/overskud)  
-  12. **Simone** (passiv)  
-  13. **Andreas** (afbetaling/overskud)  
+  11. **Josefa** (afbetaling)  
+  12. **Simone** (afbetaling)
+  13. **Andreas** (afbetaling)  
   14. **Inez** (up front)
 
 (Parterne benævnes samlet “Anpartshaverne.”)
@@ -37,6 +38,8 @@ Selskabets formål er at:
 3. Etablere en platform for iværksætteri og hjemmeskoling.  
 4. Generere indtægter (fx via glamping, events/retreats, konsulentydelser) til at understøtte fællesskabet og opbygge selskabets egenkapital.
 
+(Tommy): Skrive at de 7% man betaler for at låbe Kunjas faciliteter ikke er en del af anpart
+
 ### 2.2 Ejendommens overtagelse  
 Ejendommen Kirkeby Sand 19 kan erhverves for den gæld, der måtte være pr. 01.01.2030. Midler og egenkapital, der opspares i Selskabet, skal sikre denne overtagelse.
 
@@ -50,7 +53,7 @@ Ejendommen Kirkeby Sand 19 kan erhverves for den gæld, der måtte være pr. 01.
 Der er i alt 14 anpartshavere med lige store anparter. En anpart kan **ikke** sælges for mere end det, der faktisk er indbetalt (1:1), da anparten **ikke** er et spekulativt investeringsobjekt.
 
 ### 3.2 Up front, afbetaling/overskud eller passiv  
-- **Up front (4 personer)**: Anna, Sanne, Tommy og Inez – hver indbetaler **125.000 kr.** ved stiftelse/indtræden.  
+- **Up front (4 personer)**: Anna, Sanne, Tommy og Inez – hver indbetaler **125.000 kr.** ved stiftelse/indtræden.  (Simone): Forslag: 125.000 inluderer også allerede indskudt kapital i Kunja ApS
 - **Afbetaling/Generering af overskud (6 personer)**: Dario, Marita, Millo, Karsten, Josefa og Andreas – hver skal sikre et samlet bidrag på **125.000 kr.** over 5 år. Dette kan ske gennem:  
   1. **Kontante afdrag**,  
   2. **Skabelse af overskud i Selskabet** (hvor nettobeløbet efter skat tilfalder Selskabet),  
@@ -62,9 +65,12 @@ Der er i alt 14 anpartshavere med lige store anparter. En anpart kan **ikke** s�
 Alle indbetalte beløb (kontante afdrag, overskudsbidrag, up front osv.) er “frosset” i Selskabet. Ingen anpartshaver kan få sine penge retur, medmindre bestemmelserne i denne aftale giver mulighed herfor.
 
 ### 3.4 Forlænget frysning pga. ejendomskøb  
-- Indskud forbliver frosset i Selskabet, **indtil ejendommen er erhvervet**, dog senest pr. 31.12.2030.  
-- Selv hvis en anpartshaver træder ud og en ny køber overtager anparten, udløses ingen udbetaling før overtagelsen af ejendommen.  
+- Indskud forbliver frosset i Selskabet, **indtil ejendommen er erhvervet**, dog senest pr. 31.12.2030.
+- Selv hvis en anpartshaver træder ud og en ny køber overtager anparten, udløses ingen udbetaling før overtagelsen af ejendommen.
 - Formålet er at forhindre, at Selskabets kapitalgrundlag udhules, så ejendommen **ikke** kan erhverves.
+
+(Simone?): Mulighed for at indefrossede midler kan købes ud af bye spirer
+(Simone) Fjerne indefrysning til 2035
 
 ---
 
@@ -127,6 +133,8 @@ Nye anpartshavere skal gennemgå en **spireproces** (defineret af Selskabet), f�
 ### 7.2 Beslutningskompetence  
 Kun de **ikke-passive** anpartshavere i økonomigruppen kan træffe disse økonomiske beslutninger efter sociokratiske principper.
 
+(Tommy): Uddybning af hvilke beslutninger disse omhanlder
+
 ---
 
 ## 8. Misligholdelse, manglende afdrag/overskud og retstab
@@ -141,7 +149,10 @@ Kun de **ikke-passive** anpartshavere i økonomigruppen kan træffe disse økono
 - Grov misligholdelse af andre dele af aftalen kan dog føre til eksklusion, men selv her udløses ingen udbetaling før ejendomskøbet er gennemført, jf. pkt. 3.4.
 
 ### 8.3 Eksklusion
-- Forslag (Karsten): Man kunne skrive at man kan smide en smide en anpartshaver ud hvis der er fuld samtykke fra alle anpartshavere. Det bliver svært at skrive alle forhold ind. I sidste ende er det fællesskabets beslutning.
+- Forslag (Tommy/Karsten): Man kunne skrive at man kan smide en smide en anpartshaver ud hvis der er fuld samtykke fra alle anpartshavere. Det bliver svært at skrive alle forhold ind. I sidste ende er det fællesskabets beslutning.
+
+
+(Simone) Nyt punkt: Passive investorer har ikke indsigelsesmulighed på nytilflyttere. Grunden er at man ikke skal kunne stoppe det økonomiske mål som aktive medlemmer har sat.
 
 
 ---
@@ -153,6 +164,10 @@ Parterne bestræber sig på at løse uenigheder gennem intern dialog og sociokra
 
 ### 9.2 Mediation  
 Hvis en konflikt ikke kan løses internt, skal parterne deltage i en **mediationsproces** med en professionel mediator. Først hvis dette mislykkes, kan sagen indbringes for domstolene (eller en evt. voldgiftsret).
+
+### 9.3 IVK
+
+(Tommy): Uddybning af IVK modellen
 
 ---
 
