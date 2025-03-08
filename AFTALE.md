@@ -19,18 +19,29 @@
 ## 4. Selskabets anparter
 
 4.1 Selskabets anparter er udstedt og noteret på navn.  
+
 4.2 Anparterne er ikke-omsætningspapirer.  
+
 4.3 Enhver overgang af anparter kræver anpartshavernes forudgående samtykke. Den, som har anmodet om samtykke, skal senest 4 uger efter anmodningens modtagelse underrettes om selskabets stillingtagen til anmodningen, idet samtykke ellers anses for givet.  
-4.4 Selskabets anpartshavere er registreret i Erhvervsstyrelsens Online Ejerbog.  
+
+4.4 Selskabets anpartshavere er registreret i Erhvervsstyrelsens Online Ejerbog. 
+
 4.5 Anparter kan ikke sælges til en højere pris, end de oprindeligt blev erhvervet for.  
-4.6 Anparterne er indefrosset frem til den 31. december 2030 og kan ikke overdrages, sælges eller på anden måde disponeres over før dette tidspunkt.  
+
+4.6 Anparterne er indefrosset frem til den 31. december 2030 og kan ikke overdrages, sælges eller på anden måde disponeres over før dette tidspunkt. 
+
 4.7 Uanset om en anpartshaver ekskluderes af Selskabet, kan vedkommende ikke kræve at få sit indskud eller eventuelle midler retur, før der foreligger en gyldig køber efter den 31. december 2030.  
+
 4.8 Enhver overdragelse af anparter skal ske i overensstemmelse med en forud fastlagt prioriteret liste, hvor anpartshaverne indskrives i rækkefølge. Denne liste er bindende, selv hvis en anpartshaver efterfølgende måtte blive ekskluderet.  
+
 4.9 Eventuelle overskud eller merværdi, som en anpartshaver måtte generere i Selskabet, medregnes ikke i anpartens værdi ved salg eller overdragelse.  
+
 4.10 Ingen løbende udlodning. Der foretages ingen årlig udlodning af overskud. Ethvert overskud forbliver i Selskabet og kan geninvesteres i ejendommen, projekter eller byggemodning.  
+
 4.11 Anciennitet
     - En anpartshavers anciennitet begynder på den dato, hvor vedkommende registreres i ejerbogen.  
-    - Anciennitet kan kun ophøre, hvis Selskabets styregruppe eller økonomigruppe beslutter dette som følge af grov misligholdelse af nærværende aftale eller Selskabets øvrige vedtægter.  
+    - Anciennitet kan kun ophøre, hvis Selskabets styregruppe eller økonomigruppe beslutter dette som følge af grov misligholdelse af nærværende aftale eller Selskabets øvrige vedtægter. 
+    
 4.12 Overskud ved opløsning – fordeling for alle, der nogensinde har været anpartshaver**  
     - **Tilbagebetaling af indskud**: Ved Selskabets opløsning (eller ved salg af alle væsentlige aktiver) fordeles et eventuelt slutoverskud først ved, at alle anpartshavere får deres faktiske indskud tilbagebetalt.  
     - **Fordeling af resterende overskud**: Såfremt der efter tilbagebetalingen af indskud fortsat er overskud, fordeles dette proportionalt med det antal måneder, de har været anpartshavere.
