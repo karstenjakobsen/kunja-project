@@ -1,205 +1,64 @@
-# Udkast til Anpartshaveraftale
+# VEDTÆGTER
 
-## 1. Parterne  
-Denne aftale (“Aftalen”) er indgået mellem:
+## 1. Navn
+**1.1** Selskabets navn er Kunja ApS.
 
-- **Selskabet**:  
-  [Navn / CVR-nr. / Adresse]  
-  (i det følgende kaldet “Selskabet”).
+## 2. Formål
+**2.1** Selskabets formål er at udøve virksomhed med handel og service samt aktiviteter i tilknytning hertil.
 
-- **Anpartshaverne** (14 i alt):
+## 3. Selskabets kapital
+**3.1** Selskabets selskabskapital udgør 70.000 kr. fordelt på anparter á 1 kr.
 
-  1. **Anna** (up front)  
-  2. **Sanne** (up front)  
-  3. **Tommy** (up front)  
-  4. **Dario** (afbetaling/overskud)  
-  5. **Marita** (afbetaling/overskud)  
-  6. **Millo** (afbetaling/overskud)  
-  7. **Karsten** (afbetaling/overskud)  
-  8. **Martin** (passiv)  
-  9. **Thor** (passiv)  
-  10. **Einer** (passiv)  
-  11. **Josefa** (afbetaling/overskud)  
-  12. **Simone** (passiv)  
-  13. **Andreas** (afbetaling/overskud)  
-  14. **Inez** (up front)
+## 4. Selskabets anparter
+**4.1** Selskabets anparter er udstedt og noteret på navn.  
+**4.2** Anparterne er ikke-omsætningspapirer.  
+**4.3** Enhver overgang af anparter kræver anpartshavernes skriftlige forudgående samtykke. Den, som har anmodet om samtykke, skal senest 4 uger efter anmodningens modtagelse underrettes om selskabets stillingtagen til anmodningen, idet samtykke ellers anses for givet.  
+**4.4** Selskabets anpartshavere er registreret i Erhvervsstyrelsens Online Ejerbog.
 
-(Parterne benævnes samlet “Anpartshaverne.”)
+## 5. Generalforsamlingen, kompetence, sted og indkaldelse
+**5.1** Anpartshavernes beslutningskompetence udøves på generalforsamlingen.  
+**5.2** Generalforsamlingen har den højeste myndighed i alle selskabets anliggender inden for de i lovgivningen og disse vedtægter fastsatte grænser.  
+**5.3** Selskabets generalforsamlinger skal afholdes på selskabets hjemsted. Ved enighed kan selskabets anpartshavere beslutte, at generalforsamlingen skal afholdes et andet sted.  
+**5.4** Den ordinære generalforsamling skal afholdes hvert år i så god tid, at den godkendte årsrapport kan modtages i Erhvervsstyrelsen inden udløbet af fristen i årsregnskabsloven.  
+**5.5** Ekstraordinær generalforsamling skal afholdes, når bestyrelsen eller den eventuelle generalforsamlingsvalgte revisor har forlangt det. Ekstraordinær generalforsamling til behandling af et bestemt angivet emne skal endvidere indkaldes senest 2 uger efter, at en anpartshaver skriftligt har forlangt det.  
+**5.6** Generalforsamlinger indkaldes af bestyrelsen senest 2 uger og tidligst 4 uger før generalforsamlingen ved almindeligt brev eller e-mail.  
+**5.7** En anpartshaver har ret til at få et bestemt emne optaget på dagsordenen for den ordinære generalforsamling. Kravet skal fremsættes over for bestyrelsen, som afgør, om forslaget er fremsat i så god tid, at emnet kan optages på dagsordenen.  
+**5.8** Selskabets generalforsamlinger er ikke åbne for offentligheden, medmindre bestyrelsen i det enkelte tilfælde giver tilladelse hertil.  
+**5.9** Senest 2 uger før generalforsamlingen skal dagsordenen og de fuldstændige forslag, der skal behandles på generalforsamlingen, og for den ordinære generalforsamlings vedkommende tillige årsrapporten, gøres tilgængelige til eftersyn for anpartshaverne.  
+**5.10** På den ordinære generalforsamling skal dagsordenen være følgende:  
+1. Valg af dirigent.  
+2. Bestyrelsens beretning om selskabets virksomhed i det forløbne regnskabsår.  
+3. Godkendelse af årsrapporten.  
+4. Anvendelse af overskud eller dækning af underskud i henhold til den godkendte årsrapport.  
+5. Valg af bestyrelsesmedlemmer.  
+6. Eventuelle forslag fra bestyrelsen og/eller anpartshaverne.
 
----
+## 6. Generalforsamlingens stemme- og repræsentationsret m.v.
+**6.1** Enhver anpartshaver kan afgive 1 stemme uanset antallet af anparter denne måtte eje.  
+**6.2** En anpartshaver har ret til selv at møde på generalforsamlingen eller ved en fuldmægtig og i begge tilfælde sammen med en rådgiver. En fuldmægtig kan udøve stemmeret på anpartshavernes vegne mod forevisning af skriftlig og dateret fuldmagt.  
+**6.3** En anpartshaver kan brevstemme. Brevstemmen skal i givet fald være modtaget af selskabet kl. 10.00 dagen før generalforsamlingens afholdelse. For at sikre identifikation af den enkelte anpartshaver, der udnytter sin ret til at brevstemme, skal brevstemmen være underskrevet af anpartshaveren, samt med blokbogstaver eller trykte bogstaver angive dennes fulde navn og adresse.
 
-## 2. Formål og vision
+## 7. Generalforsamlingen, dirigent, beslutninger og protokol
+**7.1** Generalforsamlingen vælger en dirigent, der leder generalforsamlingen og sikrer, at generalforsamlingen afholdes på en forsvarlig og hensigtsmæssig måde. Dirigenten afgør alle spørgsmål vedrørende sagernes behandling og stemmeafgivning.  
+**7.2** På generalforsamlingen træffes alle beslutninger ved simpelt flertal, medmindre andet følger af selskabsloven eller af disse vedtægter.  
+**7.3** Over forhandlingerne på generalforsamlingen føres en protokol, der underskrives af dirigenten. Protokollen, eller en bekræftet udskrift af denne, skal senest 2 uger efter generalforsamlingens afholdelse være tilgængelig for anpartshaverne på selskabets hjemsted.
 
-### 2.1 Formålet  
-Selskabets formål er at:  
-1. Drive et bofællesskab og erhverve ejendommen Kirkeby Sand 19.  
-2. Byggemodne byggegrunde på sigt.  
-3. Etablere en platform for iværksætteri og hjemmeskoling.  
-4. Generere indtægter (fx via glamping, events/retreats, konsulentydelser) til at understøtte fællesskabet og opbygge selskabets egenkapital.
+## 8. Selskabets ledelse
+**8.1** Generalforsamlingen vælger en direktion bestående af 1 - 4 direktører til at varetage ledelsen af selskabets virksomhed.  
+**8.2** I tilfælde af at der vælges flere direktører, vælges 1 af dem som administrerende direktør.  
+**8.3** Referater af direktionsmøder skal indføres i en protokol, som skal underskrives af de direktører, som er til stede på møderne.  
+**8.4** Selskabet har ikke en bestyrelse eller et tilsynsråd.
 
-### 2.2 Ejendommens overtagelse  
-Ejendommen Kirkeby Sand 19 kan erhverves for den gæld, der måtte være pr. 01.01.2030. Midler og egenkapital, der opspares i Selskabet, skal sikre denne overtagelse.
+## 9. Elektronisk kommunikation
+**9.1** Selskabet kan anvende elektronisk dokumentudveksling samt elektronisk post (e-mail) i kommunikation mellem selskabet og anpartshaverne. Dette omfatter indkaldelse af anpartshaverne til ordinær og ekstraordinær generalforsamling, herunder de fuldstændige forslag til vedtægtsændringer, tilsendelse af dagsorden, årsrapport m.v. samt øvrige generelle oplysninger fra selskabet til anpartshaverne. Selskabet kan altid benytte almindelig brevpost som alternativ til elektronisk kommunikation. Det er anpartshavernes ansvar at sikre, at selskabet er i besiddelse af korrekt elektronisk kontaktoplysning. Anpartshaverne kan få oplysninger om kravene til de anvendte systemer og om fremgangsmåden ved elektronisk kommunikation ved henvendelse til selskabet.
 
-> **Kapitalfrysning**: For at sikre kapitalen til køb af ejendommen er alle indskud frosset i Selskabet, jf. pkt. 3.4 og 8.2.
+## 10. Tegningsregel
+**10.1** Selskabet tegnes af en direktør.
 
----
-
-## 3. Anparter, ejerkreds og indbetalinger
-
-### 3.1 Antal anpartshavere  
-Der er i alt 14 anpartshavere med lige store anparter. En anpart kan **ikke** sælges for mere end det, der faktisk er indbetalt (1:1), da anparten **ikke** er et spekulativt investeringsobjekt.
-
-### 3.2 Up front, afbetaling/overskud eller passiv  
-- **Up front (4 personer)**: Anna, Sanne, Tommy og Inez – hver indbetaler **125.000 kr.** ved stiftelse/indtræden.  
-- **Afbetaling/Generering af overskud (6 personer)**: Dario, Marita, Millo, Karsten, Josefa og Andreas – hver skal sikre et samlet bidrag på **125.000 kr.** over 5 år. Dette kan ske gennem:  
-  1. **Kontante afdrag**,  
-  2. **Skabelse af overskud i Selskabet** (hvor nettobeløbet efter skat tilfalder Selskabet),  
-  3. **Kombination** af kontant afdrag og overskud.  
-  - Detaljerne fremgår af den individuelle afdrags-/overskudsplan (Bilag A).  
-- **Passive (4 personer)**: Martin, Thor, Einer og Simone – de er noteret som passive, og udgangspunktet er, at der **ikke** kan tilføjes flere passive anpartshavere, medmindre der opnås **100% samtykke** i en sociokratisk proces.
-
-### 3.3 Frysning af indbetalinger (generelt)  
-Alle indbetalte beløb (kontante afdrag, overskudsbidrag, up front osv.) er “frosset” i Selskabet. Ingen anpartshaver kan få sine penge retur, medmindre bestemmelserne i denne aftale giver mulighed herfor.
-
-### 3.4 Forlænget frysning pga. ejendomskøb  
-- Indskud forbliver frosset i Selskabet, **indtil ejendommen er erhvervet**, dog senest pr. 31.12.2030.  
-- Selv hvis en anpartshaver træder ud og en ny køber overtager anparten, udløses ingen udbetaling før overtagelsen af ejendommen.  
-- Formålet er at forhindre, at Selskabets kapitalgrundlag udhules, så ejendommen **ikke** kan erhverves.
+## 11. Regnskabsår
+**11.1** Regnskabsåret løber fra 01. januar til 31. december  
+**11.2** Selskabets årsrapporter udarbejdes på dansk eller engelsk.
 
 ---
 
-## 4. Sociokratisk ledelse og grupper
-
-### 4.1 Sociokratisk model  
-Selskabet ledes efter en **sociokratisk** model, hvor beslutninger træffes i relevante cirkler/grupper, og hvor der tilstræbes samtykke frem for en traditionel flertalsafgørelse.
-
-### 4.2 Styregruppe  
-- **Styregruppen** består af **alle** anpartshavere (både aktive og passive).  
-- Styregruppen varetager overordnede forhold, fx ændringer i selskabets formål, **opløsning** af Selskabet, godkendelse af nye anpartshavere (efter spireproces) samt evt. fratagelse af afdrags-havernes stemmeret (jf. pkt. 8.1) m.m.
-
-### 4.3 Økonomigruppe  
-- **Økonomigruppen** består af alle **ikke-passive** anpartshavere, dvs. dem, der har betalt up front eller afdrager/genererer overskud.  
-- Gruppen træffer væsentlige økonomiske beslutninger: investeringer, budget, indkøb, låneoptagelse mv.  
-- Passive anpartshavere har **ingen stemmeret** i økonomiske anliggender, men kan orienteres.
-
----
-
-## 5. Overskudsdeling og anciennitet
-
-### 5.1 Ingen løbende udlodning  
-Der foretages **ingen** årlig udlodning af overskud. Ethvert overskud bliver i Selskabet og kan reinvesteres i ejendommen, projekter eller byggemodning.
-
-### 5.2 Anciennitet  
-- En anpartshavers anciennitet starter den dag, vedkommende **underskriver** denne aftale.  
-- Anciennitet ophører kun, hvis styregruppen eller økonomigruppen beslutter det som følge af grov misligholdelse af aftalen.
-
-### 5.3 Overskud ved opløsning – fordeling for alle, der **nogensinde** har været ikke-passive  
-- Ved **opløsning** af Selskabet (eller salg af alle væsentlige aktiver) fordeles et eventuelt **slut-overskud** efter følgende rækkefølge:
-  1. **Tilbagebetaling af indskud**: Først får alle (både passive og ikke-passive) deres faktiske indbetaling retur (jf. pkt. 3.4 om frysning indtil ejendomskøb/31.12.2030).  
-  2. **Fordeling af resterende overskud**: Hvis der stadig er overskud, fordeles dette **udelukkende** blandt dem, der på et hvilket som helst tidspunkt har været ikke-passive anpartshavere, proportionalt med antallet af måneder, de har været ikke-passive.
-
----
-
-## 6. Overdragelse af anparter
-
-### 6.1 Ingen spekulation  
-En anpart kan **aldrig** sælges til en pris, der overstiger det faktisk indbetalte beløb (kontant/overskud), typisk **125.000 kr.**.
-
-### 6.2 Spireproces  
-Nye anpartshavere skal gennemgå en **spireproces** (defineret af Selskabet), før de kan blive godkendt til at købe en eksisterende anpart.
-
-### 6.3 Forkøbsret og anciennitet  
-- Ved ønske om salg af en anpart har **eksisterende** anpartshavere forkøbsret.  
-- **Prioritering** følger anciennitet: Den længstvarende anpartshaver har førsteret.  
-- Sælgers indskud (uanset om det stammer fra kontanter eller overskud) udbetales først, **når** ejendommen er erhvervet (eller senest pr. 31.12.2030), jf. pkt. 3.4.
-
-### 6.4 Passive anpartshavere  
-- Udgangspunktet er, at der **ikke** optages nye passive anpartshavere.  
-- Skal der i et særtilfælde optages nye passive, kræves det en **sociokratisk beslutning med 100% samtykke** fra alle nuværende anpartshavere.
-
----
-
-## 7. Investeringer og brug af indskud
-
-### 7.1 Formål  
-Økonomigruppen kan beslutte at anvende dele af de indskudte midler til projekter, renovering, udvikling mv. med henblik på at skabe værdi eller besparelser for Selskabet.
-
-### 7.2 Beslutningskompetence  
-Kun de **ikke-passive** anpartshavere i økonomigruppen kan træffe disse økonomiske beslutninger efter sociokratiske principper.
-
----
-
-## 8. Misligholdelse, manglende afdrag/overskud og retstab
-
-### 8.1 Manglende levering af afdrag/overskud – tab af indsigelsesret  
-- Hvis en anpartshaver (der afdrager/genererer overskud) **ikke** leverer sit aftalte kontantbidrag eller overskud til Selskabet iht. den individuelle afdrags-/overskudsplan (Bilag A), kan Selskabet fratage vedkommende **stemmeret**/indsigelsesret ved økonomiske beslutninger i økonomigruppen.  
-- Den pågældende forbliver dog anpartshaver og kan senere bidrage for at “komme på omgangshøjde.”  
-- Indestående beløb og fremtidige overskudsbidrag forbliver fortsat frosset i Selskabet.
-
-### 8.2 Ingen eksklusion alene pga. manglende afdrag/overskud  
-- En anpartshaver ekskluderes **ikke** alene på grund af manglende rettidig levering af det aftalte beløb.  
-- Grov misligholdelse af andre dele af aftalen kan dog føre til eksklusion, men selv her udløses ingen udbetaling før ejendomskøbet er gennemført, jf. pkt. 3.4.
-
----
-
-## 9. Konfliktløsning
-
-### 9.1 Intern dialog  
-Parterne bestræber sig på at løse uenigheder gennem intern dialog og sociokratiske processer.
-
-### 9.2 Mediation  
-Hvis en konflikt ikke kan løses internt, skal parterne deltage i en **mediationsproces** med en professionel mediator. Først hvis dette mislykkes, kan sagen indbringes for domstolene (eller en evt. voldgiftsret).
-
----
-
-## 10. Varighed, ændringer og lovvalg
-
-### 10.1 Ikrafttræden  
-Aftalen træder i kraft, når den er underskrevet af samtlige 14 anpartshavere.
-
-### 10.2 Ændringer  
-Ændringer eller tilføjelser til denne Aftale kræver en sociokratisk beslutning i styregruppen og skal foreligge skriftligt, underskrevet af alle anpartshavere (eller godkendt efter jeres sociokratiske regler).
-
-### 10.3 Lovvalg  
-Aftalen er underlagt dansk ret, og eventuelle tvister afgøres ved danske domstole, hvis ikke mediation fører til en løsning.
-
----
-
-## 11. Underskrifter
-
-På vegne af **Selskabet**:  
-- Navn/Titel: __________________________  
-- Dato: ___________  
-- Underskrift: _________________________
-
-**Anpartshavere (14 i alt):**  
-1. Anna (up front) – Underskrift: __________________________  
-2. Sanne (up front) – Underskrift: __________________________  
-3. Tommy (up front) – Underskrift: __________________________  
-4. Dario (afbetaling/overskud) – Underskrift: __________________________  
-5. Marita (afbetaling/overskud) – Underskrift: __________________________  
-6. Millo (afbetaling/overskud) – Underskrift: __________________________  
-7. Karsten (afbetaling/overskud) – Underskrift: __________________________  
-8. Martin (passiv) – Underskrift: __________________________  
-9. Thor (passiv) – Underskrift: __________________________  
-10. Einer (passiv) – Underskrift: __________________________  
-11. Josefa (afbetaling/overskud) – Underskrift: __________________________  
-12. Simone (passiv) – Underskrift: __________________________  
-13. Andreas (afbetaling/overskud) – Underskrift: __________________________  
-14. Inez (up front) – Underskrift: __________________________
-
----
-
-## Bilag (eksempler)
-
-1. **Bilag A: Afdrags-/Overskudsplan**  
-   - Beskriver, hvordan hver af de 6 afbetalende anpartshavere (Dario, Marita, Millo, Karsten, Josefa og Andreas) skal bidrage med deres samlede 125.000 kr. over 5 år, enten gennem kontante afdrag, genereret overskud (efter skat) eller en kombination heraf, inklusiv rater, deadlines og eventuelle konsekvenser ved manglende levering.
-
-2. **Bilag B: Spireproces**  
-   - Uddyber, hvordan en ny potentiel anpartshaver introduceres til Selskabet, og hvilke kriterier der skal være opfyldt, før vedkommende kan købe en anpart.
-
-3. **Bilag C: Sociokratiske cirkler**  
-   - Beskrivelse af de forskellige cirkler (økonomigruppe, styregruppe osv.), deres medlemmer, opgaver og eventuelle mødefrekvenser.
-
-4. **Bilag D: Historik over ikke-passive perioder**  
-   - Et redskab til at registrere, hvor længe hver person har været aktiv (ikke-passiv), så overskud ved opløsning kan fordeles korrekt.
+Således vedtaget på selskabets generalforsamling den 08. januar 2023.
