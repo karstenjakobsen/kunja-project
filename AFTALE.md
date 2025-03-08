@@ -6,11 +6,11 @@
 
 ## 2. Formål
 
-1. Selskabets formål er at udøve virksomhed med handel og service samt aktiviteter i tilknytning hertil.
-2. Drive et bofællesskab og erhverve ejendommen Kirkeby Sand 19.
-3. Byggemodne byggegrunde på sigt.
-4. Etablere en platform for iværksætteri og hjemmeskoling.
-5. Generere indtægter (fx via glamping, events/retreats, konsulentydelser etc.) til at understøtte fællesskabet og opbygge selskabets egenkapital.
+2.1 Selskabets formål er at udøve virksomhed med handel og service samt aktiviteter i tilknytning hertil.
+2.2 Drive et bofællesskab og erhverve ejendommen Kirkeby Sand 19.
+2.3 Byggemodne byggegrunde på sigt.
+2.4 Etablere en platform for iværksætteri og hjemmeskoling.
+2.5 Generere indtægter (fx via glamping, events/retreats, konsulentydelser etc.) til at understøtte fællesskabet og opbygge selskabets egenkapital.
 
 ## 3. Selskabets kapital
 
