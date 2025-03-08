@@ -2,19 +2,23 @@
 
 ## 1. Navn
 
-**1.1** Selskabets navn er Kunja ApS.
+1.1 Selskabets navn er Kunja ApS.
 
 ## 2. Formål
 
-- 2.1. Selskabets formål er at udøve virksomhed med handel og service samt aktiviteter i tilknytning hertil.
-- 2.2. Drive et bofællesskab og erhverve ejendommen Kirkeby Sand 19.
-- 2.3. Byggemodne byggegrunde på sigt.
-- 2.4. Etablere en platform for iværksætteri og hjemmeskoling.
-- 2.5. Generere indtægter (fx via glamping, events/retreats, konsulentydelser etc.) til at understøtte fællesskabet og opbygge selskabets egenkapital.
+2.1. Selskabets formål er at udøve virksomhed med handel og service samt aktiviteter i tilknytning hertil.
+
+2.2. Drive et bofællesskab og erhverve ejendommen Kirkeby Sand 19.
+
+2.3. Byggemodne byggegrunde på sigt.
+
+2.4. Etablere en platform for iværksætteri og hjemmeskoling.
+
+2.5. Generere indtægter (fx via glamping, events/retreats, konsulentydelser etc.) til at understøtte fællesskabet og opbygge selskabets egenkapital.
 
 ## 3. Selskabets kapital
 
-**3.1** Selskabets selskabskapital udgør 70.000 kr. fordelt på anparter á 1 kr.
+3.1 Selskabets selskabskapital udgør 70.000 kr. fordelt på anparter á 1 kr.
 
 ## 4. Selskabets anparter
 
@@ -52,25 +56,25 @@
 
 ## 5. Generalforsamlingen, kompetence, sted og indkaldelse
 
-**5.1** Anpartshavernes beslutningskompetence udøves på generalforsamlingen.  
+5.1 Anpartshavernes beslutningskompetence udøves på generalforsamlingen.  
 
-**5.2** Generalforsamlingen har den højeste myndighed i alle selskabets anliggender inden for de i lovgivningen og disse vedtægter fastsatte grænser.  
+5.2 Generalforsamlingen har den højeste myndighed i alle selskabets anliggender inden for de i lovgivningen og disse vedtægter fastsatte grænser.  
 
-**5.3** Selskabets generalforsamlinger skal afholdes på selskabets hjemsted. Ved enighed kan selskabets anpartshavere beslutte, at generalforsamlingen skal afholdes et andet sted.  
+5.3 Selskabets generalforsamlinger skal afholdes på selskabets hjemsted. Ved enighed kan selskabets anpartshavere beslutte, at generalforsamlingen skal afholdes et andet sted.  
 
-**5.4** Den ordinære generalforsamling skal afholdes hvert år i så god tid, at den godkendte årsrapport kan modtages i Erhvervsstyrelsen inden udløbet af fristen i årsregnskabsloven.  
+5.4 Den ordinære generalforsamling skal afholdes hvert år i så god tid, at den godkendte årsrapport kan modtages i Erhvervsstyrelsen inden udløbet af fristen i årsregnskabsloven.  
 
-**5.5** Ekstraordinær generalforsamling skal afholdes, når bestyrelsen eller den eventuelle generalforsamlingsvalgte revisor har forlangt det. Ekstraordinær generalforsamling til behandling af et bestemt angivet emne skal endvidere indkaldes senest 2 uger efter, at en anpartshaver skriftligt har forlangt det.
+5.5 Ekstraordinær generalforsamling skal afholdes, når bestyrelsen eller den eventuelle generalforsamlingsvalgte revisor har forlangt det. Ekstraordinær generalforsamling til behandling af et bestemt angivet emne skal endvidere indkaldes senest 2 uger efter, at en anpartshaver skriftligt har forlangt det.
 
-**5.6** Generalforsamlinger indkaldes af bestyrelsen senest 2 uger og tidligst 4 uger før generalforsamlingen ved almindeligt brev eller e-mail.  
+5.6 Generalforsamlinger indkaldes af bestyrelsen senest 2 uger og tidligst 4 uger før generalforsamlingen ved almindeligt brev eller e-mail.  
 
-**5.7** En anpartshaver har ret til at få et bestemt emne optaget på dagsordenen for den ordinære generalforsamling. Kravet skal fremsættes over for bestyrelsen, som afgør, om forslaget er fremsat i så god tid, at emnet kan optages på dagsordenen.  
+5.7 En anpartshaver har ret til at få et bestemt emne optaget på dagsordenen for den ordinære generalforsamling. Kravet skal fremsættes over for bestyrelsen, som afgør, om forslaget er fremsat i så god tid, at emnet kan optages på dagsordenen.  
 
-**5.8** Selskabets generalforsamlinger er ikke åbne for offentligheden, medmindre bestyrelsen i det enkelte tilfælde giver tilladelse hertil.  
+5.8 Selskabets generalforsamlinger er ikke åbne for offentligheden, medmindre bestyrelsen i det enkelte tilfælde giver tilladelse hertil.  
 
-**5.9** Senest 2 uger før generalforsamlingen skal dagsordenen og de fuldstændige forslag, der skal behandles på generalforsamlingen, og for den ordinære generalforsamlings vedkommende tillige årsrapporten, gøres tilgængelige til eftersyn for anpartshaverne.  
+5.9 Senest 2 uger før generalforsamlingen skal dagsordenen og de fuldstændige forslag, der skal behandles på generalforsamlingen, og for den ordinære generalforsamlings vedkommende tillige årsrapporten, gøres tilgængelige til eftersyn for anpartshaverne.  
 
-**5.10** På den ordinære generalforsamling skal dagsordenen være følgende:  
+5.10 På den ordinære generalforsamling skal dagsordenen være følgende:  
 
 1. Valg af dirigent.  
 2. Bestyrelsens beretning om selskabets virksomhed i det forløbne regnskabsår.  
