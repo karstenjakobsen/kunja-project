@@ -6,7 +6,13 @@
 
 ## 2. Formål
 
-**2.1** Selskabets formål er at udøve virksomhed med handel og service samt aktiviteter i tilknytning hertil.
+**2.1** 
+
+1. Selskabets formål er at udøve virksomhed med handel og service samt aktiviteter i tilknytning hertil.
+2. Drive et bofællesskab og erhverve ejendommen Kirkeby Sand 19.
+3. Byggemodne byggegrunde på sigt.
+4. Etablere en platform for iværksætteri og hjemmeskoling.
+5. Generere indtægter (fx via glamping, events/retreats, konsulentydelser etc.) til at understøtte fællesskabet og opbygge selskabets egenkapital.
 
 ## 3. Selskabets kapital
 
@@ -95,3 +101,8 @@ blokbogstaver eller trykte bogstaver angive dennes fulde navn og adresse.
 ---
 
 Således vedtaget på selskabets generalforsamling den 08. januar 2023.
+
+Bilag 1:
+
+Ejendommen Kirkeby Sand 19 kan erhverves for den gæld, der måtte være pr. 01.01.2030. Midler og egenkapital, der opspares i Selskabet, skal sikre denne overtagelse.
+
