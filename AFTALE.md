@@ -39,12 +39,16 @@
 4.10 Ingen løbende udlodning. Der foretages ingen årlig udlodning af overskud. Ethvert overskud forbliver i Selskabet og kan geninvesteres i ejendommen, projekter eller byggemodning.  
 
 4.11 Anciennitet
-    - En anpartshavers anciennitet begynder på den dato, hvor vedkommende registreres i ejerbogen.  
-    - Anciennitet kan kun ophøre, hvis Selskabets styregruppe eller økonomigruppe beslutter dette som følge af grov misligholdelse af nærværende aftale eller Selskabets øvrige vedtægter. 
+
+- En anpartshavers anciennitet begynder på den dato, hvor vedkommende registreres i ejerbogen.  
+
+- Anciennitet kan kun ophøre, hvis Selskabets styregruppe eller økonomigruppe beslutter dette som følge af grov misligholdelse af nærværende aftale eller Selskabets øvrige vedtægter. 
     
 4.12 Overskud ved opløsning – fordeling for alle, der nogensinde har været anpartshaver**  
-    - **Tilbagebetaling af indskud**: Ved Selskabets opløsning (eller ved salg af alle væsentlige aktiver) fordeles et eventuelt slutoverskud først ved, at alle anpartshavere får deres faktiske indskud tilbagebetalt.  
-    - **Fordeling af resterende overskud**: Såfremt der efter tilbagebetalingen af indskud fortsat er overskud, fordeles dette proportionalt med det antal måneder, de har været anpartshavere.
+
+- **Tilbagebetaling af indskud**: Ved Selskabets opløsning (eller ved salg af alle væsentlige aktiver) fordeles et eventuelt slutoverskud først ved, at alle anpartshavere får deres faktiske indskud tilbagebetalt.  
+
+- **Fordeling af resterende overskud**: Såfremt der efter tilbagebetalingen af indskud fortsat er overskud, fordeles dette proportionalt med det antal måneder, de har været anpartshavere.
 
 ## 5. Generalforsamlingen, kompetence, sted og indkaldelse
 
