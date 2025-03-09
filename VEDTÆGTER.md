@@ -151,7 +151,7 @@
 
 13.2. Manglende rettidig indbetaling af aftalte beløb udgør alene ikke grundlag for eksklusion af en anpartshaver.
 
-13.3. En anpartshaver kan udelukkende ekskluderes, hvis der foreligger 100 % samtykke blandt samtlige øvrige anpartshavere. For at indlede en eksklusionsprocedure skal der fremsættes en skriftlig anmodning til Selskabets ledelse med henblik på afholdelse af eksklusionsmøde. Den anpartshaver, der ønskes ekskluderet, deltager ikke i selve eksklusionsmødet.
+13.3. En anpartshaver kan udelukkende ekskluderes, hvis der foreligger 75 % samtykke blandt samtlige øvrige anpartshavere. For at indlede en eksklusionsprocedure skal der fremsættes en skriftlig anmodning til Selskabets ledelse med henblik på afholdelse af eksklusionsmøde. Den anpartshaver, der ønskes ekskluderet, deltager ikke i selve eksklusionsmødet.
 
 13.4. Før et eksklusionsmøde kan afholdes, skal Selskabets konflikthåndteringsgruppe vurdere, hvorvidt der er foretaget en tilstrækkelig konflikthåndtering. Gruppen har mandat til at fastsætte, hvor længe og på hvilken måde der skal forsøges at løse konflikten. Såfremt konflikthåndteringsgruppen vurderer, at eksklusionsgrundlaget er så alvorligt, at fortsat konflikthåndtering er formålsløs eller bør forkortes, kan gruppen beslutte at gå direkte videre til eksklusionsmødet. Eksempler på alvorlige eksklusionsgrundlag kan omfatte, men er ikke begrænset til, personskade, vold eller voldtægt.
 
