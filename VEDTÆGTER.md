@@ -1,4 +1,4 @@
-# VEDTÆGTER FOR KUNJA ApS (revideret forslag)
+# VEDTÆGTER
 
 ## 1. Navn
 1.1. Selskabets navn er Kunja ApS.
