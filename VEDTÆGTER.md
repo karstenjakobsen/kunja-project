@@ -62,6 +62,8 @@
 - **Depositum og omdannelse til anpart**: De indbetalte midler anses indtil videre som depositum. Først når den samlede betaling på 125.000 kr. er erlagt, omdannes depositummet til en anpart, og indskuddet registreres i ejerbogen.  
 - **Samtykke**: Afdragsvilkårene, herunder løbetid og eventuelle rater, fastsættes efter gensidigt samtykke mellem anpartshaveren og Selskabet.  
 
+4.14 **Salg** Ved ønske om salg af en anpart har eksisterende anpartshavere forkøbsret. Prioritering følger anciennitet: Den længstvarende anpartshaver har førsteret.
+
 ## 5. Generalforsamlingen, kompetence, sted og indkaldelse
 
 5.1 Anpartshavernes beslutningskompetence udøves på generalforsamlingen.  
