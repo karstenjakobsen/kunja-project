@@ -31,7 +31,9 @@
 
 4.11. **Overskud ved opløsning – fordeling for alle, der nogensinde har været anpartshaver**  
    - **Tilbagebetaling af indskud**: Ved Selskabets opløsning (eller ved salg af alle væsentlige aktiver) fordeles et eventuelt slutoverskud først ved, at alle anpartshavere får deres faktiske indskud tilbagebetalt.  
-   - **Fordeling af resterende overskud**: Såfremt der herefter fortsat er overskud, fordeles det proportionalt med det antal måneder, de har været anpartshavere.  
+   - **Fordeling af resterende overskud**: Såfremt der herefter fortsat er overskud, fordeles det proportionalt med det antal måneder, de har været anpartshavere.
+
+
 4.12. **Indbetalingsvilkår og afdragsordning**  
    - **Pris for anpart**: En anpart i Selskabet koster 125.000 kr.
    - **Afdragsordning**: Såfremt en ny anpartshaver ikke kan indbetale det fulde beløb på én gang, kan man aftale en afbetalingsordning. Afdragsplanen vedhæftes vedtægterne som et særskilt bilag.  
