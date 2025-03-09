@@ -130,11 +130,11 @@ blokbogstaver eller trykte bogstaver angive dennes fulde navn og adresse.
 
 Således vedtaget på selskabets generalforsamling den 08. januar 2023.
 
-Bilag 1:
+# Bilag 1:
 
-# Intern Vision
+## Intern Vision
 
-# Økofællesskabet KUNJA
+## Økofællesskabet KUNJA
 
 ## Vision
 KUNJA er et økofællesskab på Sydfyn, hvor mennesker lever i harmoni med naturen og hinanden. Fællesskabet danner ramme om et bæredygtigt liv med plads til 20 boliger, hvor både familier og enkeltpersoner kan trives og udvikle sig. Visionen bygger på balancen mellem fællesskab og individuel frihed, understøttet af økologiske principper, sociokratiske metoder og en fælles vilje til udvikling.
