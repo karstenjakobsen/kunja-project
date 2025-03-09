@@ -137,19 +137,27 @@
 11.1. Regnskabsåret løber fra 1. januar til 31. december.  
 11.2. Selskabets årsrapporter udarbejdes på dansk eller engelsk.
 
-## 12. Misligeholdelse og eksklusion
+## 12. Konflikthåndtering
 
-12.1. Såfremt en anpartshaver, der afdrager på sit indskud, ikke indbetaler det aftalte kontantbidrag i overensstemmelse med den individuelle afdrags-/overskudsplan (jf. bilag), er Selskabet berettiget til at fratage den pågældende anpartshaver stemmeret og/eller indsigelsesret ved beslutninger i Selskabet. Den pågældende anpartshaver forbliver dog anpartshaver og kan genoprette sin fulde medlemsstatus ved at indbetale de skyldige beløb, så vedkommende kommer “på omgangshøjde” med afdragsplanen.
+12.1. Selskabet etablerer en konflikthåndteringsgruppe, der har til opgave at vurdere og håndtere interne konflikter mellem anpartshavere.
 
-12.2. Manglende rettidig indbetaling af aftalte beløb udgør alene ikke grundlag for eksklusion af en anpartshaver.
+12.2. Alle anpartshavere er forpligtet til at deltage i to årlige IVK-/konflikthåndteringsworkshops for at styrke den interne samarbejdskultur og forebygge potentielle konflikter.
 
-12.3. En anpartshaver kan udelukkende ekskluderes, hvis der foreligger 100 % samtykke blandt samtlige øvrige anpartshavere. For at indlede en eksklusionsprocedure skal der fremsættes en skriftlig anmodning til Selskabets ledelse med henblik på afholdelse af eksklusionsmøde. Den anpartshaver, der ønskes ekskluderet, deltager ikke i selve eksklusionsmødet.
+12.3. Hvis konflikthåndteringsgruppen vurderer, at en ekstern mediator er nødvendig for at løse en konflikt, afholder Selskabet udgiften til en sådan op til 10 timer.
 
-12.4. Før et eksklusionsmøde kan afholdes, skal Selskabets konflikthåndteringsgruppe vurdere, hvorvidt der er foretaget en tilstrækkelig konflikthåndtering. Gruppen har mandat til at fastsætte, hvor længe og på hvilken måde der skal forsøges at løse konflikten. Såfremt konflikthåndteringsgruppen vurderer, at eksklusionsgrundlaget er så alvorligt, at fortsat konflikthåndtering er formålsløs eller bør forkortes, kan gruppen beslutte at gå direkte videre til eksklusionsmødet. Eksempler på alvorlige eksklusionsgrundlag kan omfatte, men er ikke begrænset til, personskade, vold eller voldtægt.
+## 13. Misligeholdelse og eksklusion
 
-12.5. Ved en enstemmig beslutning fra de øvrige anpartshavere om eksklusion ophører den ekskluderede persons anpartsrettigheder, og vedkommende kan ikke længere gøre krav på deltagelse i Selskabets ledelse eller beslutningsprocesser. Eventuelle økonomiske forhold eller tilbagebetalinger reguleres i overensstemmelse med nærværende vedtægter og relevante bilag.
+13.1. Såfremt en anpartshaver, der afdrager på sit indskud, ikke indbetaler det aftalte kontantbidrag i overensstemmelse med den individuelle afdrags-/overskudsplan (jf. bilag), er Selskabet berettiget til at fratage den pågældende anpartshaver stemmeret og/eller indsigelsesret ved beslutninger i Selskabet. Den pågældende anpartshaver forbliver dog anpartshaver og kan genoprette sin fulde medlemsstatus ved at indbetale de skyldige beløb, så vedkommende kommer “på omgangshøjde” med afdragsplanen.
 
-## 13. Bilag til vedtægterne
+13.2. Manglende rettidig indbetaling af aftalte beløb udgør alene ikke grundlag for eksklusion af en anpartshaver.
+
+13.3. En anpartshaver kan udelukkende ekskluderes, hvis der foreligger 100 % samtykke blandt samtlige øvrige anpartshavere. For at indlede en eksklusionsprocedure skal der fremsættes en skriftlig anmodning til Selskabets ledelse med henblik på afholdelse af eksklusionsmøde. Den anpartshaver, der ønskes ekskluderet, deltager ikke i selve eksklusionsmødet.
+
+13.4. Før et eksklusionsmøde kan afholdes, skal Selskabets konflikthåndteringsgruppe vurdere, hvorvidt der er foretaget en tilstrækkelig konflikthåndtering. Gruppen har mandat til at fastsætte, hvor længe og på hvilken måde der skal forsøges at løse konflikten. Såfremt konflikthåndteringsgruppen vurderer, at eksklusionsgrundlaget er så alvorligt, at fortsat konflikthåndtering er formålsløs eller bør forkortes, kan gruppen beslutte at gå direkte videre til eksklusionsmødet. Eksempler på alvorlige eksklusionsgrundlag kan omfatte, men er ikke begrænset til, personskade, vold eller voldtægt.
+
+13.5. Ved en enstemmig beslutning fra de øvrige anpartshavere om eksklusion ophører den ekskluderede persons anpartsrettigheder, og vedkommende kan ikke længere gøre krav på deltagelse i Selskabets ledelse eller beslutningsprocesser. Eventuelle økonomiske forhold eller tilbagebetalinger reguleres i overensstemmelse med nærværende vedtægter og relevante bilag.
+
+## 14. Bilag til vedtægterne
 
 - **Bilag 1: Intern vision**  
 - **Bilag 2: Ejendommen Kirkeby Sand 19**  
@@ -157,7 +165,7 @@
 - **Bilag 4: Historisk oversigt over anpartsanciennitet**  
 - **Bilag 5: Værd at vide / Husorden** (indeholdt i dette bilag kan være detaljer om sociokratisk metode, konflikthåndtering, IVK, osv.)
 
-13.1. **Ændring af bilag**. Ændring af bilag 1-5 sker efter de samme principper, som gælder for ændring af nærværende vedtægter, medmindre andet fremgår.
+1.1. **Ændring af bilag**. Ændring af bilag 1-5 sker efter de samme principper, som gælder for ændring af nærværende vedtægter, medmindre andet fremgår.
 
 ---
 
