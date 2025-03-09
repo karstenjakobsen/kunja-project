@@ -110,13 +110,19 @@ blokbogstaver eller trykte bogstaver angive dennes fulde navn og adresse.
 
 ## 8. Selskabets ledelse
 
-**8.1** Generalforsamlingen vælger en direktion bestående af 1 - 4 direktører til at varetage ledelsen af selskabets virksomhed.  
+**8.1** Selskabet har én direktør, der er ansvarlig for den overordnede virksomhed og juridiske forpligtelser.  
 
-**8.2** I tilfælde af at der vælges flere direktører, vælges 1 af dem som administrerende direktør.  
+**8.2** Ledelsen af Selskabet sker efter en sociokratisk model, hvor beslutninger træffes i relevante cirkler eller grupper, og hvor der tilstræbes samtykke frem for traditionel flertalsafgørelse.  
 
-**8.3** Referater af direktionsmøder skal indføres i en protokol, som skal underskrives af de direktører, som er til stede på møderne.  
+**8.3** Styregruppen er Selskabets øverste cirkel og består af alle anpartshavere. Styregruppen varetager alle selskabets forhold, som f.eks (men ikke begrænset til):
+- Ændringer i Selskabets formål  
+- Opløsning af Selskabet  
+- Godkendelse af nye anpartshavere (efter gennemført spireproces)  
+- Eventuel fratagelse af anpartsrettigheder  
 
-**8.4** Selskabet har ikke en bestyrelse eller et tilsynsråd.
+**8.4** Referater af møder, herunder både direktionsmøder og styregruppemøder, skal indføres i en protokol, som godkendes af de tilstedeværende.  
+
+**8.5** Selskabet har ikke en bestyrelse eller et tilsynsråd.
 
 ## 9. Elektronisk kommunikation
 
