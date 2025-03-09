@@ -24,9 +24,11 @@
 4.7. Enhver overdragelse af anparter skal ske i overensstemmelse med en på forhånd fastlagt prioriteret liste, hvor anpartshaverne er indskrevet i rækkefølge. Listen er bindende, selv hvis en anpartshaver ekskluderes på et senere tidspunkt.  
 4.8. Eventuelle overskud eller merværdi, som en anpartshaver genererer i Selskabet, medregnes ikke i anpartens værdi ved salg eller overdragelse.  
 4.9. **Ingen løbende udlodning**: Der foretages ingen årlig udlodning af overskud. Ethvert overskud forbliver i Selskabet og kan geninvesteres i ejendommen, projekter eller byggemodning.  
+
 4.10. **Anciennitet**  
    - En anpartshavers anciennitet begynder den dato, vedkommende registreres i ejerbogen.  
-   - Ancienniteten kan kun ophøre, hvis Selskabets styregruppe eller anden udpeget kreds beslutter det, eksempelvis pga. grov misligholdelse.  
+   - Ancienniteten kan kun ophøre, hvis Selskabets styregruppe eller anden udpeget kreds beslutter det, eksempelvis pga. grov misligholdelse.
+
 4.11. **Overskud ved opløsning – fordeling for alle, der nogensinde har været anpartshaver**  
    - **Tilbagebetaling af indskud**: Ved Selskabets opløsning (eller ved salg af alle væsentlige aktiver) fordeles et eventuelt slutoverskud først ved, at alle anpartshavere får deres faktiske indskud tilbagebetalt.  
    - **Fordeling af resterende overskud**: Såfremt der herefter fortsat er overskud, fordeles det proportionalt med det antal måneder, de har været anpartshavere.  
@@ -36,6 +38,7 @@
    - **Minimumsindskud**: Ved indgåelse af afbetalingsordning indbetales minimum 15.000 kr.  
    - **Depositum og omdannelse til anpart**: De indbetalte midler anses som depositum, indtil den samlede betaling på 125.000 kr. er erlagt. Først da registreres anparten i ejerbogen.  
    - **Samtykke**: Afdragsvilkårene fastsættes efter gensidigt samtykke mellem anpartshaveren og Selskabet.  
+
 4.13. **Salg**: Ved ønske om salg af en anpart har eksisterende anpartshavere forkøbsret. Prioritering følger anciennitet, således at den længstvarende anpartshaver har førsteret.
 
 ## 5. Generalforsamlingen, kompetence, sted og indkaldelse
