@@ -16,6 +16,8 @@
 
 2.5. Generere indtægter (fx via glamping, events/retreats, konsulentydelser etc.) til at understøtte fællesskabet og opbygge selskabets egenkapital.
 
+2.6. Følge mål fra intern Vision (Bilag 1)
+
 ## 3. Selskabets kapital
 
 3.1 Selskabets selskabskapital udgør 70.000 kr. fordelt på anparter á 1 kr.
@@ -48,7 +50,7 @@
 
 - Anciennitet kan kun ophøre, hvis Selskabets styregruppe eller økonomigruppe beslutter dette som følge af grov misligholdelse af nærværende aftale eller Selskabets øvrige vedtægter. 
     
-4.12 Overskud ved opløsning – fordeling for alle, der nogensinde har været anpartshaver**  
+4.12 Overskud ved opløsning – fordeling for alle, der nogensinde har været anpartshaver
 
 - **Tilbagebetaling af indskud**: Ved Selskabets opløsning (eller ved salg af alle væsentlige aktiver) fordeles et eventuelt slutoverskud først ved, at alle anpartshavere får deres faktiske indskud tilbagebetalt.  
 
@@ -129,6 +131,40 @@ blokbogstaver eller trykte bogstaver angive dennes fulde navn og adresse.
 Således vedtaget på selskabets generalforsamling den 08. januar 2023.
 
 Bilag 1:
+
+# Intern Vision
+
+# Økofællesskabet KUNJA
+
+## Vision
+KUNJA er et økofællesskab på Sydfyn, hvor mennesker lever i harmoni med naturen og hinanden. Fællesskabet danner ramme om et bæredygtigt liv med plads til 20 boliger, hvor både familier og enkeltpersoner kan trives og udvikle sig. Visionen bygger på balancen mellem fællesskab og individuel frihed, understøttet af økologiske principper, sociokratiske metoder og en fælles vilje til udvikling.
+
+I KUNJA prioriterer vi hjemmelivet og vælger aktivt at hjemmeundervise vores børn. Vi ser hverdagen som en vigtig læringsproces, hvor børn og voksne sammen opdager og udvikler deres potentialer i en tryg og stimulerende ramme uden traditionelle institutioner. Vi har også et stærkt fokus på Ikke-Voldelig Kommunikation (IVK) som en essentiel tilgang til at styrke relationer, løse konflikter og fremme respektfuld dialog i fællesskabet.
+
+KUNJA er mere end blot et sted at bo – vi er en platform for samarbejde, læring og entreprenørskab. Her kan både børn og voksne udvikle sig gennem nære relationer og hverdagsliv, samtidig med at vi åbner dørene for lokalsamfundet og inviterer til workshops, retreats og aktiviteter, der styrker forbindelsen mellem mennesker og natur.
+
+## Primære mål
+Vi arbejder i øjeblikket på følgende centrale mål:
+
+1. **Ejendomsovertagelse**  
+   Vores vigtigste mål er, at Kunja ApS køber ejendommen så hurtigt som muligt. ApS kan købe ejendommen for den resterende gæld plus 400.000 kr., og der arbejdes på at finde den rette investeringsmodel for at realisere dette.
+
+2. **Tilbagebetaling af opstartsinvesteringer**  
+   Af de 715.000 kr., som to familier har investeret i opstartsomkostninger, prioriteres de 315.000 kr. tilbagebetalt over 5 år. De resterende 400.000 kr. tilbagebetales, når ejendommen erhverves af ApS.
+
+3. **Byggetilladelser**  
+   Vi samarbejder med Svendborg Kommune om at få de nødvendige byggetilladelser på plads, så vores vision for boliger og fællesområder kan realiseres.
+
+4. **Fundraising og iværksætteri**  
+   Via retreats og events arbejder vi på at tiltrække midler, samtidig med at Kunja ApS fungerer som platform for beboernes egne forretningsinitiativer, der styrker både fællesskabet og deres personlige økonomi.
+
+## Status lige nu
+KUNJA ligger i Kirkeby Sand, 15 minutter nord for Svendborg, på en 9 hektar stor grund med skov, søer og fællesfaciliteter. Fællesskabet består i dag af 5 børnefamilier med 12 børn og 2 enkeltbeboere – i alt 11 voksne. Vi bor midlertidigt i skurbyen, mens vi arbejder på byggetilladelser, fundraising og realisering af visionen for vores boliger og fællesområder.
+
+## Vil du være en del af KUNJA?
+Kontakt os gennem vores Facebook-side: **KUNJA Ecovillage**. Her finder du et link til tilmelding ("signup" eller "tilmeld" på dansk), hvor du skal besvare en række spørgsmål. Vi bruger **Discord** som vores primære platform til organisering og kommunikation.
+
+Bilag 2:
 
 Ejendommen Kirkeby Sand 19 kan erhverves for den gæld, der måtte være pr. 01.01.2030. Midler og egenkapital, der opspares i Selskabet, skal sikre denne overtagelse.
 
