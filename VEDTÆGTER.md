@@ -16,10 +16,10 @@
 
 ## 4. Selskabets anparter
 4.1. Selskabets anparter er registreret på navn i Erhvervsstyrelsens ejerbog.  
-4.2. Anparterne er ikke-omsætningspapirer.  
+4.2. Anparterne er ikke-omsætningspapirer.
 4.3. Enhver overgang af anparter kræver anpartshavernes forudgående samtykke. Den, der har anmodet om samtykke, skal senest 4 uger efter anmodningens modtagelse underrettes om afgørelsen, idet samtykke ellers anses for givet.  
-4.4. Anparterne kan ikke sælges til en højere pris, end de oprindeligt blev erhvervet for.  
-4.5. Anparterne er indefrosset frem til 31. december 2030 og kan ikke overdrages, sælges eller på anden måde disponeres over før dette tidspunkt.  
+4.4. Anparterne kan ikke sælges til en højere pris, end de oprindeligt blev erhvervet for. 
+4.5. Anparterne er indefrosset frem til 31. december 2030 og kan ikke overdrages, sælges eller på anden måde disponeres over før dette tidspunkt. Formålet med indefrysningen er at sikre ro omkring fællesskabets udvikling.
 4.6. Uanset om en anpartshaver ekskluderes af Selskabet, kan vedkommende ikke kræve at få sit indskud eller eventuelle midler retur, før der foreligger en gyldig køber efter 31. december 2030.  
 4.7. Enhver overdragelse af anparter skal ske i overensstemmelse med en på forhånd fastlagt prioriteret liste, hvor anpartshaverne er indskrevet i rækkefølge. Listen er bindende, selv hvis en anpartshaver ekskluderes på et senere tidspunkt.  
 4.8. Eventuelle overskud eller merværdi, som en anpartshaver genererer i Selskabet, medregnes ikke i anpartens værdi ved salg eller overdragelse.  
@@ -33,7 +33,6 @@
    - **Tilbagebetaling af indskud**: Ved Selskabets opløsning (eller ved salg af alle væsentlige aktiver) fordeles et eventuelt slutoverskud først ved, at alle anpartshavere får deres faktiske indskud tilbagebetalt.  
    - **Fordeling af resterende overskud**: Såfremt der herefter fortsat er overskud, fordeles det proportionalt med det antal måneder, de har været anpartshavere.
 
-
 4.12. **Indbetalingsvilkår og afdragsordning**  
    - **Pris for anpart**: En anpart i Selskabet koster 125.000 kr.
    - **Afdragsordning**: Såfremt en ny anpartshaver ikke kan indbetale det fulde beløb på én gang, kan man aftale en afbetalingsordning. Afdragsplanen vedhæftes vedtægterne som et særskilt bilag.  
@@ -42,6 +41,8 @@
    - **Samtykke**: Afdragsvilkårene fastsættes efter gensidigt samtykke mellem anpartshaveren og Selskabet.  
 
 4.13. **Salg**: Ved ønske om salg af en anpart har eksisterende anpartshavere forkøbsret. Prioritering følger anciennitet, således at den længstvarende anpartshaver har førsteret.
+
+4.14 Ingen anpartshaver hæfter personligt for selskabets gæld og forpligtelser
 
 ## 5. Generalforsamlingen, kompetence, sted og indkaldelse
 5.1. Anpartshavernes beslutningskompetence udøves på generalforsamlingen.  
@@ -74,7 +75,7 @@
 
 ## 8. Selskabets ledelse
 8.1. **En direktør**: Selskabet har én direktør, der formelt tegner Selskabet og er juridisk ansvarlig iht. selskabsloven.  
-8.2. **Sociokratisk beslutningsmodel**: Selskabet ledes i praksis efter en sociokratisk model, hvor væsentlige beslutninger træffes i styregruppen eller i relevante undergrupper.  
+8.2. **Sociokratisk beslutningsmodel**: Selskabet ledes i praksis efter en sociokratisk model, hvor væsentlige beslutninger træffes i styregruppen eller i relevante undergrupper. I det omfang selskabsloven kræver flertalsafgørelser (f.eks. ved vedtægtsændringer), accepterer anpartshaverne, at den sociokratiske model integreres med lovens mindstekrav.
 8.3. **Direktørens forpligtelse**: Direktøren skal respektere og implementere de beslutninger, der træffes efter den sociokratiske proces, medmindre de strider mod ufravigelige krav i lovgivningen.  
 8.4. **Styregruppen** er Selskabets øverste kreds og består af alle anpartshavere. Styregruppen varetager alle Selskabets overordnede forhold, fx:  
    - Ændring af Selskabets formål  
