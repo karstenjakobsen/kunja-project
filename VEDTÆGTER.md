@@ -140,6 +140,17 @@ blokbogstaver eller trykte bogstaver angive dennes fulde navn og adresse.
 
 **11.2** Selskabets årsrapporter udarbejdes på dansk eller engelsk.
 
+## 12 Konflikt og konfliktløsning
+
+## 13 Misligeholdelse og eksklusion
+
+13.1 Hvis en anpartshaver der afdrager ikke leverer sit aftalte kontantbidrag til Selskabet iht. den individuelle afdrags-/overskudsplan jvf. bilag, kan Selskabet fratage vedkommende stemmeret/indsigelsesret ved beslutninger i Selskabet. Den pågældende anpartshaver forbliver dog anpartshaver og kan senere bidrage for at “komme på omgangshøjde.”
+
+13.2 En anpartshaver ekskluderes ikke alene på grund af manglende rettidig levering af det aftalte beløb.
+
+
+
+
 ---
 
 Således vedtaget på selskabets generalforsamling den 08. januar 2023.
