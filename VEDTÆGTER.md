@@ -208,7 +208,15 @@ KUNJA ligger i Kirkeby Sand, 15 minutter nord for Svendborg, på en 9 hektar sto
 ## Vil du være en del af KUNJA?
 Kontakt os gennem vores Facebook-side: **KUNJA Ecovillage**. Her finder du et link til tilmelding ("signup" eller "tilmeld" på dansk), hvor du skal besvare en række spørgsmål. Vi bruger **Discord** som vores primære platform til organisering og kommunikation.
 
-Bilag 2:
+# Bilag 2
 
 Ejendommen Kirkeby Sand 19 kan erhverves for den gæld, der måtte være pr. 01.01.2030. Midler og egenkapital, der opspares i Selskabet, skal sikre denne overtagelse.
+
+# Bilag 3
+
+Spireprocess
+
+# Bilag 4:
+
+Historisk oversigt over anparts anncinitet
 
