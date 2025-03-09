@@ -140,16 +140,35 @@ blokbogstaver eller trykte bogstaver angive dennes fulde navn og adresse.
 
 **11.2** Selskabets årsrapporter udarbejdes på dansk eller engelsk.
 
-## 12 Konflikt og konfliktløsning
+## 12. Konflikter og konflikthåndtering
 
-## 13 Misligeholdelse og eksklusion
+**12.1** I Selskabet anvendes Ikkevoldelig Kommunikation (IVK), til at håndtere konflikter og spændinger mellem anpartshavere. IVK er en metode udviklet af til det formål at kommunikere behov på en ikke-dømmende måde og fremme en empatisk dialog.
 
-13.1 Hvis en anpartshaver der afdrager ikke leverer sit aftalte kontantbidrag til Selskabet iht. den individuelle afdrags-/overskudsplan jvf. bilag, kan Selskabet fratage vedkommende stemmeret/indsigelsesret ved beslutninger i Selskabet. Den pågældende anpartshaver forbliver dog anpartshaver og kan senere bidrage for at “komme på omgangshøjde.”
+**12.2** Hver anpartshaver forpligter sig til minimum to gange årligt at deltage i en selvbetalt IVK-/konfliktworkshop for at styrke sine kompetencer i konflikthåndtering. 
 
-13.2 En anpartshaver ekskluderes ikke alene på grund af manglende rettidig levering af det aftalte beløb.
+**12.3** I Selskabet er der etableret en konflikthåndteringsgruppe, som kan inddrages for at vurdere konfliktniveauet og eventuelt iværksætte eller anbefale foranstaltninger til konfliktløsning, herunder ekstern bistand. Hvis det vurderes nødvendigt at tilkalde en ekstern part (f.eks. en professionel mediator), afholder Selskabet de hermed forbundne udgifter. 
 
+**12.4** Samtlige anpartshavere forpligter sig til at gøre deres yderste for at løse konflikter direkte med den eller de involverede parter hurtigst muligt og på en respektfuld og konstruktiv måde. Formålet er at skabe en løsningsorienteret dialog, hvor alles behov og perspektiver så vidt muligt tilgodeses.
 
+**12.5** IVK bygger på et enkelt, men virkningsfuldt firetrinsprincip:
+1. Beskriv objektivt situationen, der udløser dine følelser – uden at vurdere eller dømme.  
+2. Udtryk dine følelser uden at kritisere den anden part.  
+3. Forklar, hvilke behov der ikke opfyldes, og som dermed udløser de pågældende følelser.  
+4. Fremsæt en konkret anmodning, der kan bidrage til at opfylde dine behov og berige dialogen.
 
+Ved at efterleve disse principper samt Selskabets konfliktprocedurer, tilstræbes det at skabe et miljø med konstruktive løsninger og respekt for alle anpartshavere.
+
+## 13. Misligeholdelse og eksklusion
+
+**13.1** Såfremt en anpartshaver, der afdrager på sit indskud, ikke indbetaler det aftalte kontantbidrag i overensstemmelse med den individuelle afdrags-/overskudsplan (jf. bilag), er Selskabet berettiget til at fratage den pågældende anpartshaver stemmeret og/eller indsigelsesret ved beslutninger i Selskabet. Den pågældende anpartshaver forbliver dog anpartshaver og kan genoprette sin fulde medlemsstatus ved at indbetale de skyldige beløb, så vedkommende kommer “på omgangshøjde” med afdragsplanen.
+
+**13.2** Manglende rettidig indbetaling af aftalte beløb udgør alene ikke grundlag for eksklusion af en anpartshaver.
+
+**13.3** En anpartshaver kan udelukkende ekskluderes, hvis der foreligger 100 % samtykke blandt samtlige øvrige anpartshavere. For at indlede en eksklusionsprocedure skal der fremsættes en skriftlig anmodning til Selskabets ledelse med henblik på afholdelse af eksklusionsmøde. Den anpartshaver, der ønskes ekskluderet, deltager ikke i selve eksklusionsmødet.
+
+**13.4** Før et eksklusionsmøde kan afholdes, skal Selskabets konflikthåndteringsgruppe vurdere, hvorvidt der er foretaget en tilstrækkelig konflikthåndtering. Gruppen har mandat til at fastsætte, hvor længe og på hvilken måde der skal forsøges at løse konflikten. Såfremt konflikthåndteringsgruppen vurderer, at eksklusionsgrundlaget er så alvorligt, at fortsat konflikthåndtering er formålsløs eller bør forkortes, kan gruppen beslutte at gå direkte videre til eksklusionsmødet. Eksempler på alvorlige eksklusionsgrundlag kan omfatte, men er ikke begrænset til, personskade, vold eller voldtægt.
+
+**13.5** Ved en enstemmig beslutning fra de øvrige anpartshavere om eksklusion ophører den ekskluderede persons anpartsrettigheder, og vedkommende kan ikke længere gøre krav på deltagelse i Selskabets ledelse eller beslutningsprocesser. Eventuelle økonomiske forhold eller tilbagebetalinger reguleres i overensstemmelse med nærværende vedtægter og relevante bilag.
 
 ---
 
