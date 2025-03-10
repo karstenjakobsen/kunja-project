@@ -34,7 +34,7 @@ Nedenfor er et **omskrevet forslag** til §4, hvor punkterne er sorteret i en **
 - Ingen anpartshaver hæfter personligt for Selskabets gæld og forpligtelser.
 
 **4.2. Pris for anpart og indbetalingsvilkår**  
-- En anpart i Selskabet koster 125.000 kr. (overkurs i forhold til den nominelle værdi).  
+- En anpart i Selskabet koster 125.000 kr.
 - Såfremt en ny anpartshaver ikke kan indbetale det fulde beløb på én gang, kan der aftales en afbetalingsordning. Aftalte afdragsplaner vedhæftes som særskilt bilag.  
 - Minimumsindskud ved afdragsordning er 15.000 kr.  
 - Indbetalinger under afdragsordningen anses som depositum, indtil det fulde beløb (125.000 kr.) er betalt. Først da registreres anparten endeligt i ejerbogen.  
