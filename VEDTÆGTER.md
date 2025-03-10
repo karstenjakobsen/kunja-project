@@ -33,12 +33,17 @@ Nedenfor er et **omskrevet forslag** til §4, hvor punkterne er sorteret i en **
 - Anparterne er ikke-omsætningspapirer.  
 - Ingen anpartshaver hæfter personligt for Selskabets gæld og forpligtelser.
 
-**4.2. Pris for anpart og indbetalingsvilkår**  
-- En anpart i Selskabet koster 125.000 kr.
-- Såfremt en ny anpartshaver ikke kan indbetale det fulde beløb på én gang, kan der aftales en afbetalingsordning. Aftalte afdragsplaner vedhæftes som særskilt bilag.  
-- Minimumsindskud ved afdragsordning er 15.000 kr.  
-- Indbetalinger under afdragsordningen anses som depositum, indtil det fulde beløb (125.000 kr.) er betalt. Først da registreres anparten endeligt i ejerbogen.  
-- Afdragsvilkårene fastsættes efter gensidigt samtykke mellem anpartshaveren og Selskabet.
+### 4.2. Pris for anpart og indbetalingsvilkår
+
+1. **Fuld indbetaling (kontant)**  
+   - En anpart i Selskabet koster 125.000 kr. ved fuld kontant indbetaling.  
+   - Når det fulde beløb er betalt, registreres hele indskuddet straks i ejerbogen.
+
+2. **Afdragsordning**  
+   - **Registreret del**: Ved afdragsordning køber anpartshaveren for 15.000 kr. anparts-kapital, som straks registreres i ejerbogen.  
+   - **Depositum**: Den resterende del af prisen (op til 125.000 kr.) indbetales løbende som depositum, der **ikke** registreres som anparts-kapital, før hele det aftalte beløb er betalt.  
+   - **Endelig opdatering**: Når afdragsordningen er fuldt indfriet, opdateres ejerbogen, så anpartshaverens samlede indskud svarer til 125.000 kr. per anpart.  
+   - **Afdragsplan**: Vilkårene for ratebetaling, herunder løbetid og forfaldstidspunkter, fastsættes ved gensidigt samtykke og vedlægges vedtægterne som særskilt bilag.
 
 **4.3. Indefrysning af anparter (til 31. december 2030)**  
 - Anparterne er indefrosset frem til 31. december 2030 og kan ikke overdrages, sælges eller på anden måde disponeres over før dette tidspunkt.  
