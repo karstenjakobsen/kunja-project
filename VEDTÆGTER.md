@@ -22,44 +22,53 @@
 
 3.1. Selskabets selskabskapital udgør nominelt 70.000 kr. fordelt på anparter á 1 kr.  
 
+Nedenfor er et **omskrevet forslag** til §4, hvor punkterne er sorteret i en **mere logisk/”kronologisk” rækkefølge**. Indholdet er det samme, men nu går det fra grundlæggende forhold (registrering, hæftelse) til anskaffelse, indefrysning, overdragelsesbegrænsninger, forkøbsret osv.
+
+---
+
 ## 4. Selskabets anparter
 
-4.1. Selskabets anparter er registreret på navn i Erhvervsstyrelsens ejerbog.  
+**4.1. Registrering og personlig hæftelse**  
+- Selskabets anparter er registreret på navn i Erhvervsstyrelsens ejerbog.  
+- Anparterne er ikke-omsætningspapirer.  
+- Ingen anpartshaver hæfter personligt for Selskabets gæld og forpligtelser.
 
-4.2. Anparterne er ikke-omsætningspapirer.
+**4.2. Pris for anpart og indbetalingsvilkår**  
+- En anpart i Selskabet koster 125.000 kr. (overkurs i forhold til den nominelle værdi).  
+- Såfremt en ny anpartshaver ikke kan indbetale det fulde beløb på én gang, kan der aftales en afbetalingsordning. Aftalte afdragsplaner vedhæftes som særskilt bilag.  
+- Minimumsindskud ved afdragsordning er 15.000 kr.  
+- Indbetalinger under afdragsordningen anses som depositum, indtil det fulde beløb (125.000 kr.) er betalt. Først da registreres anparten endeligt i ejerbogen.  
+- Afdragsvilkårene fastsættes efter gensidigt samtykke mellem anpartshaveren og Selskabet.
 
-4.3. Enhver overgang af anparter kræver anpartshavernes forudgående samtykke. Den, der har anmodet om samtykke, skal senest 4 uger efter anmodningens modtagelse underrettes om afgørelsen, idet samtykke ellers anses for givet.  
+**4.3. Indefrysning af anparter (til 31. december 2030)**  
+- Anparterne er indefrosset frem til 31. december 2030 og kan ikke overdrages, sælges eller på anden måde disponeres over før dette tidspunkt.  
+- Formålet med indefrysningen er at sikre ro omkring fællesskabets udvikling.  
+- Uanset om en anpartshaver ekskluderes, kan vedkommende ikke kræve at få sit indskud eller eventuelle midler retur, før der foreligger en gyldig køber efter 31. december 2030.
 
-4.4. Anparterne kan ikke sælges til en højere pris, end de oprindeligt blev erhvervet for. 
+**4.4. Overdragelse og samtykke**  
+- Enhver overgang af anparter kræver forudgående samtykke fra anpartshaverne.  
+- Den, der anmoder om samtykke, skal have svar senest 4 uger efter sin anmodning, idet samtykke ellers anses for givet.  
+- Enhver overdragelse skal følge en på forhånd fastlagt prioriteret liste med anpartshaverne i rækkefølge. Listen er bindende, selv hvis en anpartshaver ekskluderes senere.
 
-4.5. Anparterne er indefrosset frem til 31. december 2030 og kan ikke overdrages, sælges eller på anden måde disponeres over før dette tidspunkt. Formålet med indefrysningen er at sikre ro omkring fællesskabets udvikling.
+**4.5. Forkøbsret**  
+- Ved ønske om salg af en anpart har eksisterende anpartshavere forkøbsret.  
+- Prioriteringen følger anciennitet: Den længstvarende anpartshaver har førsteret.
 
-4.6. Uanset om en anpartshaver ekskluderes af Selskabet, kan vedkommende ikke kræve at få sit indskud eller eventuelle midler retur, før der foreligger en gyldig køber efter 31. december 2030.  
+**4.6. Prisbegrænsning ved salg**  
+- Anparter kan ikke sælges til en højere pris, end de oprindeligt blev erhvervet for.  
+- Eventuelle overskud eller merværdi, som en anpartshaver genererer i Selskabet, medregnes ikke i anpartens værdi ved salg eller overdragelse.
 
-4.7. Enhver overdragelse af anparter skal ske i overensstemmelse med en på forhånd fastlagt prioriteret liste, hvor anpartshaverne er indskrevet i rækkefølge. Listen er bindende, selv hvis en anpartshaver ekskluderes på et senere tidspunkt.  
+**4.7. Ingen løbende udlodning**  
+- Der foretages ingen årlig udlodning af overskud.  
+- Alt overskud bliver i Selskabet og kan geninvesteres i ejendommen, projekter eller byggemodning.
 
-4.8. Eventuelle overskud eller merværdi, som en anpartshaver genererer i Selskabet, medregnes ikke i anpartens værdi ved salg eller overdragelse. 
+**4.8. Overskud ved opløsning (fordeling til alle, der nogensinde har været anpartshaver)**  
+- **Tilbagebetaling af indskud**: Ved Selskabets opløsning (eller salg af alle væsentlige aktiver) fordeles et eventuelt slutoverskud først ved, at alle anpartshavere får deres faktiske indskud tilbagebetalt.  
+- **Fordeling af eventuel remainder**: Hvis der fortsat er overskud, fordeles det proportionalt med det antal måneder, man har været anpartshaver.
 
-4.9. **Ingen løbende udlodning**: Der foretages ingen årlig udlodning af overskud. Ethvert overskud forbliver i Selskabet og kan geninvesteres i ejendommen, projekter eller byggemodning.  
-
-4.10. **Anciennitet**  
-   - En anpartshavers anciennitet begynder den dato, vedkommende registreres i ejerbogen.  
-   - Ancienniteten kan kun ophøre, hvis Selskabets styregruppe eller anden udpeget kreds beslutter det, eksempelvis pga. grov misligholdelse.
-
-4.11. **Overskud ved opløsning – fordeling for alle, der nogensinde har været anpartshaver**  
-   - **Tilbagebetaling af indskud**: Ved Selskabets opløsning (eller ved salg af alle væsentlige aktiver) fordeles et eventuelt slutoverskud først ved, at alle anpartshavere får deres faktiske indskud tilbagebetalt.  
-   - **Fordeling af resterende overskud**: Såfremt der herefter fortsat er overskud, fordeles det proportionalt med det antal måneder, de har været anpartshavere.
-
-4.12. **Indbetalingsvilkår og afdragsordning**  
-   - **Pris for anpart**: En anpart i Selskabet koster 125.000 kr.
-   - **Afdragsordning**: Såfremt en ny anpartshaver ikke kan indbetale det fulde beløb på én gang, kan man aftale en afbetalingsordning. Afdragsplanen vedhæftes vedtægterne som et særskilt bilag.  
-   - **Minimumsindskud**: Ved indgåelse af afbetalingsordning indbetales minimum 15.000 kr.  
-   - **Depositum og omdannelse til anpart**: De indbetalte midler anses som depositum, indtil den samlede betaling på 125.000 kr. er erlagt. Først da registreres anparten i ejerbogen.  
-   - **Samtykke**: Afdragsvilkårene fastsættes efter gensidigt samtykke mellem anpartshaveren og Selskabet.  
-
-4.13. **Salg**: Ved ønske om salg af en anpart har eksisterende anpartshavere forkøbsret. Prioritering følger anciennitet, således at den længstvarende anpartshaver har førsteret.
-
-4.14 Ingen anpartshaver hæfter personligt for selskabets gæld og forpligtelser
+**4.9. Anciennitet**  
+- En anpartshavers anciennitet beregnes fra den dato, vedkommende registreres i ejerbogen.  
+- Ancienniteten kan kun ophøre, hvis Selskabets styregruppe (eller anden udpeget kreds) beslutter det, eksempelvis pga. grov misligholdelse.
 
 ## 5. Generalforsamlingen, kompetence, sted og indkaldelse
 
