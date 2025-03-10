@@ -135,6 +135,7 @@
 ## 11. Regnskabsår
 
 11.1. Regnskabsåret løber fra 1. januar til 31. december.  
+
 11.2. Selskabets årsrapporter udarbejdes på dansk eller engelsk.
 
 ## 12. Konflikthåndtering
