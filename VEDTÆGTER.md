@@ -33,17 +33,17 @@ Nedenfor er et **omskrevet forslag** til §4, hvor punkterne er sorteret i en **
 - Anparterne er ikke-omsætningspapirer.  
 - Ingen anpartshaver hæfter personligt for Selskabets gæld og forpligtelser.
 
-### 4.2. Pris for anpart og indbetalingsvilkår
+### 4.2. Erhvervelse af anpart og indbetalingsvilkår
 
-1. **Fuld indbetaling (kontant)**  
-   - En anpart i Selskabet koster 125.000 kr. ved fuld kontant indbetaling.  
-   - Når det fulde beløb er betalt, registreres hele indskuddet straks i ejerbogen.
+1. **Kontant køb**  
+   - Der findes ingen fast, generel anpartspris; hver ny anpartshaver aftaler prisen individuelt med Selskabet (f.eks. via styregruppen).  
+   - Betales den fulde, aftalte pris kontant, registreres anparten straks i ejerbogen med det samlede indskud.
 
 2. **Afdragsordning**  
-   - **Registreret del**: Ved afdragsordning køber anpartshaveren for 15.000 kr. anparts-kapital, som straks registreres i ejerbogen.  
-   - **Depositum**: Den resterende del af prisen (op til 125.000 kr.) indbetales løbende som depositum, der **ikke** registreres som anparts-kapital, før hele det aftalte beløb er betalt.  
-   - **Endelig opdatering**: Når afdragsordningen er fuldt indfriet, opdateres ejerbogen, så anpartshaverens samlede indskud svarer til 125.000 kr. per anpart.  
-   - **Afdragsplan**: Vilkårene for ratebetaling, herunder løbetid og forfaldstidspunkter, fastsættes ved gensidigt samtykke og vedlægges vedtægterne som særskilt bilag.
+   - **Mindstebeløb registreret**: Uanset den aftalte pris indbetales minimum 15.000 kr. ved aftalens indgåelse. Dette beløb registreres straks i ejerbogen som anparts-kapital.  
+   - **Depositum**: Det resterende beløb betales løbende som depositum. Dette depositum registreres **ikke** som anparts-kapital, før det fulde, aftalte beløb er indbetalt.  
+   - **Endelig opdatering**: Når afdragsordningen er fuldt indfriet, opdateres ejerbogen, så den samlede anpartskapital i ejerbogen matcher den fulde indbetaling.  
+   - **Afdragsplan**: Vilkår for ratebetaling (beløbsstørrelser, løbetid, forfaldsdatoer mv.) aftales gensidigt og vedhæftes vedtægterne som et særskilt bilag.
 
 **4.3. Indefrysning af anparter (til 31. december 2030)**  
 - Anparterne er indefrosset frem til 31. december 2030 og kan ikke overdrages, sælges eller på anden måde disponeres over før dette tidspunkt.  
