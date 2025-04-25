@@ -22,10 +22,6 @@
 
 3.1. Selskabets selskabskapital udgør nominelt 70.000 kr. fordelt på anparter á 1 kr.  
 
-Nedenfor er et **omskrevet forslag** til §4, hvor punkterne er sorteret i en **mere logisk/”kronologisk” rækkefølge**. Indholdet er det samme, men nu går det fra grundlæggende forhold (registrering, hæftelse) til anskaffelse, indefrysning, overdragelsesbegrænsninger, forkøbsret osv.
-
----
-
 ## 4. Selskabets anparter
 
 **4.1. Registrering og personlig hæftelse**  
