@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="3.44.7-Solothurn" saveUser="jakokar" projectname="" saveDateTime="2026-03-30T13:20:30" saveUserFull="Karsten Jakobsen">
+<qgis version="3.44.7-Solothurn" saveUser="jakokar" projectname="" saveDateTime="2026-03-30T13:35:31" saveUserFull="Karsten Jakobsen">
   <homePath path=""/>
   <title></title>
   <transaction mode="Disabled"/>
@@ -40,12 +40,12 @@
         <Option/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="ogr" expanded="1" legend_exp="" checked="Qt::Checked" id="Byggezone_d3ece94b_f3af_4588_9178_2d151caeb4c1" source="./Byggezone.shp" name="Byggezone">
+    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="ogr" expanded="1" legend_exp="" checked="Qt::Checked" id="Beskyttet_natur_21577ce6_aabd_4d66_988f_5fa7185b6c7f" source="./Beskyttet_natur.shp" name="Beskyttet_natur">
       <customproperties>
         <Option/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="ogr" expanded="1" legend_exp="" checked="Qt::Checked" id="Beskyttet_natur_98057db5_ffac_4138_98b1_501f0820de3d" source="./Beskyttet_natur.shp" name="Beskyttet_natur">
+    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="ogr" expanded="1" legend_exp="" checked="Qt::Checked" id="Byggezone_d3ece94b_f3af_4588_9178_2d151caeb4c1" source="./Byggezone.shp" name="Byggezone">
       <customproperties>
         <Option/>
       </customproperties>
@@ -850,12 +850,12 @@
         </layer-tree-layer>
       </layer-tree-group>
     </layer-tree-group>
-    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" expanded="0" legend_exp="" checked="Qt::Checked" id="Jordstykke__g_ldende_08947d76_f163_416d_9028_12582588b7f9" source="contextualWMSLegend=0&amp;crs=EPSG:25832&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=Jordstykke_Gaeldende&amp;styles&amp;http-header:token=3ced17ee61fac10d827ff47caaf32984&amp;url=https://api.dataforsyningen.dk/wms/MatGaeldendeOgForeloebigWMS_DAF" name="Jordstykke, gældende">
+    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" expanded="0" legend_exp="" checked="Qt::Unchecked" id="Jordstykke__g_ldende_08947d76_f163_416d_9028_12582588b7f9" source="contextualWMSLegend=0&amp;crs=EPSG:25832&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=Jordstykke_Gaeldende&amp;styles&amp;http-header:token=3ced17ee61fac10d827ff47caaf32984&amp;url=https://api.dataforsyningen.dk/wms/MatGaeldendeOgForeloebigWMS_DAF" name="Jordstykke, gældende">
       <customproperties>
         <Option/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" expanded="1" legend_exp="" checked="Qt::Checked" id="Sk_rmkort___klassisk_d1ca9bbf_77fc_405f_8d31_c289a2ee2832" source="contextualWMSLegend=0&amp;crs=EPSG:25832&amp;dpiMode=7&amp;featureCount=10&amp;format=image/jpeg&amp;layers=dtk_skaermkort&amp;styles&amp;http-header:token=3ced17ee61fac10d827ff47caaf32984&amp;url=https://api.dataforsyningen.dk/topo_skaermkort_DAF" name="Skærmkort - klassisk">
+    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" expanded="1" legend_exp="" checked="Qt::Unchecked" id="Sk_rmkort___klassisk_d1ca9bbf_77fc_405f_8d31_c289a2ee2832" source="contextualWMSLegend=0&amp;crs=EPSG:25832&amp;dpiMode=7&amp;featureCount=10&amp;format=image/jpeg&amp;layers=dtk_skaermkort&amp;styles&amp;http-header:token=3ced17ee61fac10d827ff47caaf32984&amp;url=https://api.dataforsyningen.dk/topo_skaermkort_DAF" name="Skærmkort - klassisk">
       <customproperties>
         <Option type="Map">
           <Option type="StringList" name="expandedLegendNodes">
@@ -873,7 +873,7 @@
         </Option>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" expanded="1" legend_exp="" checked="Qt::Unchecked" id="Nyeste_ortofoto__Geodanmark_ea9ed8a1_c7e4_425b_b796_2012d18fb863" source="contextualWMSLegend=0&amp;crs=EPSG:25832&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=orto_foraar&amp;styles&amp;http-header:token=3ced17ee61fac10d827ff47caaf32984&amp;url=https://api.dataforsyningen.dk/orto_foraar_DAF" name="Nyeste ortofoto, Geodanmark">
+    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" expanded="1" legend_exp="" checked="Qt::Checked" id="Nyeste_ortofoto__Geodanmark_ea9ed8a1_c7e4_425b_b796_2012d18fb863" source="contextualWMSLegend=0&amp;crs=EPSG:25832&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=orto_foraar&amp;styles&amp;http-header:token=3ced17ee61fac10d827ff47caaf32984&amp;url=https://api.dataforsyningen.dk/orto_foraar_DAF" name="Nyeste ortofoto, Geodanmark">
       <customproperties>
         <Option type="Map">
           <Option type="StringList" name="expandedLegendNodes">
@@ -1047,13 +1047,13 @@
       <item>_d6c93f6b_9874_4a4b_8425_c7241412f39d</item>
       <item>_13629d95_d30d_49a0_9e3a_a147a090fb37</item>
       <item>_de7fdcfc_b087_4712_b9bc_113e2e48d6e6</item>
-      <item>Beskyttet_natur_98057db5_ffac_4138_98b1_501f0820de3d</item>
+      <item>Beskyttet_natur_21577ce6_aabd_4d66_988f_5fa7185b6c7f</item>
     </custom-order>
   </layer-tree-group>
   <snapping-settings unit="1" tolerance="12" self-snapping="0" maxScale="0" enabled="0" type="1" mode="2" intersection-snapping="0" scaleDependencyMode="0" minScale="0">
     <individual-layer-settings>
       <layer-setting tolerance="12" maxScale="0" enabled="0" type="1" id="Huse_58a2aebb_39d1_436e_962d_b10acfeeb4a8" units="1" minScale="0"/>
-      <layer-setting tolerance="12" maxScale="0" enabled="0" type="1" id="Beskyttet_natur_98057db5_ffac_4138_98b1_501f0820de3d" units="1" minScale="0"/>
+      <layer-setting tolerance="12" maxScale="0" enabled="0" type="1" id="Beskyttet_natur_21577ce6_aabd_4d66_988f_5fa7185b6c7f" units="1" minScale="0"/>
       <layer-setting tolerance="12" maxScale="0" enabled="0" type="1" id="Byggezone_d3ece94b_f3af_4588_9178_2d151caeb4c1" units="1" minScale="0"/>
     </individual-layer-settings>
   </snapping-settings>
@@ -1062,10 +1062,10 @@
   <mapcanvas name="theMapCanvas" annotationsVisible="1">
     <units>meters</units>
     <extent>
-      <xmin>598294.53638139006216079</xmin>
-      <ymin>6107871.19919983204454184</ymin>
-      <xmax>598394.53638139006216079</xmax>
-      <ymax>6107971.19919983204454184</ymax>
+      <xmin>598308.89808351779356599</xmin>
+      <ymin>6107871.02189486473798752</ymin>
+      <xmax>598408.89808351779356599</xmax>
+      <ymax>6107971.02189486473798752</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -1091,14 +1091,14 @@
         <legendlayerfile isInOverview="0" visible="1" layerid="Huse_58a2aebb_39d1_436e_962d_b10acfeeb4a8"/>
       </filegroup>
     </legendlayer>
+    <legendlayer showFeatureCount="0" open="true" drawingOrder="-1" checked="Qt::Checked" name="Beskyttet_natur">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" visible="1" layerid="Beskyttet_natur_21577ce6_aabd_4d66_988f_5fa7185b6c7f"/>
+      </filegroup>
+    </legendlayer>
     <legendlayer showFeatureCount="0" open="true" drawingOrder="-1" checked="Qt::Checked" name="Byggezone">
       <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" visible="1" layerid="Byggezone_d3ece94b_f3af_4588_9178_2d151caeb4c1"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer showFeatureCount="0" open="true" drawingOrder="-1" checked="Qt::Checked" name="Beskyttet_natur">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" visible="1" layerid="Beskyttet_natur_98057db5_ffac_4138_98b1_501f0820de3d"/>
       </filegroup>
     </legendlayer>
     <legendgroup open="false" checked="Qt::Unchecked" name="Plandata WMS">
@@ -1895,14 +1895,14 @@
         </legendlayer>
       </legendgroup>
     </legendgroup>
-    <legendlayer showFeatureCount="0" open="false" drawingOrder="-1" checked="Qt::Checked" name="Jordstykke, gældende">
+    <legendlayer showFeatureCount="0" open="false" drawingOrder="-1" checked="Qt::Unchecked" name="Jordstykke, gældende">
       <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" visible="1" layerid="Jordstykke__g_ldende_08947d76_f163_416d_9028_12582588b7f9"/>
+        <legendlayerfile isInOverview="0" visible="0" layerid="Jordstykke__g_ldende_08947d76_f163_416d_9028_12582588b7f9"/>
       </filegroup>
     </legendlayer>
-    <legendlayer showFeatureCount="0" open="true" drawingOrder="-1" checked="Qt::Checked" name="Skærmkort - klassisk">
+    <legendlayer showFeatureCount="0" open="true" drawingOrder="-1" checked="Qt::Unchecked" name="Skærmkort - klassisk">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" visible="1" layerid="Sk_rmkort___klassisk_d1ca9bbf_77fc_405f_8d31_c289a2ee2832"/>
+        <legendlayerfile isInOverview="0" visible="0" layerid="Sk_rmkort___klassisk_d1ca9bbf_77fc_405f_8d31_c289a2ee2832"/>
       </filegroup>
     </legendlayer>
     <legendlayer showFeatureCount="0" open="true" drawingOrder="-1" checked="Qt::Unchecked" name="DTK25 - Danmarks Topografiske Kortværk 1:25.000">
@@ -1910,9 +1910,9 @@
         <legendlayerfile isInOverview="0" visible="0" layerid="DTK25___Danmarks_Topografiske_Kortv_rk_1_25_000_bfb53df9_e4e8_4df2_93bb_ddd9e96f7b2b"/>
       </filegroup>
     </legendlayer>
-    <legendlayer showFeatureCount="0" open="true" drawingOrder="-1" checked="Qt::Unchecked" name="Nyeste ortofoto, Geodanmark">
+    <legendlayer showFeatureCount="0" open="true" drawingOrder="-1" checked="Qt::Checked" name="Nyeste ortofoto, Geodanmark">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" visible="0" layerid="Nyeste_ortofoto__Geodanmark_ea9ed8a1_c7e4_425b_b796_2012d18fb863"/>
+        <legendlayerfile isInOverview="0" visible="1" layerid="Nyeste_ortofoto__Geodanmark_ea9ed8a1_c7e4_425b_b796_2012d18fb863"/>
       </filegroup>
     </legendlayer>
   </legend>
@@ -2002,18 +2002,18 @@
   <projectlayers>
     <maplayer geometry="Polygon" simplifyAlgorithm="0" wkbType="MultiPolygon" type="vector" simplifyMaxScale="1" labelsEnabled="0" autoRefreshTime="0" legendPlaceholderImage="" minScale="100000000" symbologyReferenceScale="-1" autoRefreshMode="Disabled" simplifyDrawingTol="1" refreshOnNotifyMessage="" simplifyLocal="1" maxScale="0" simplifyDrawingHints="1" readOnly="0" styleCategories="AllStyleCategories" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0">
       <extent>
-        <xmin>720000</xmin>
-        <ymin>6200000</ymin>
-        <xmax>720120</xmax>
-        <ymax>6200020</ymax>
+        <xmin>598240.28106224117800593</xmin>
+        <ymin>6107900.45451898127794266</ymin>
+        <xmax>598462.62148777313996106</xmax>
+        <ymax>6108031.66019274014979601</ymax>
       </extent>
       <wgs84extent>
-        <xmin>12.51875753702060123</xmin>
-        <ymin>55.89503498601015252</ymin>
-        <xmax>12.52068904993976695</xmax>
-        <ymax>55.89526915811036645</ymax>
+        <xmin>10.53996515798074185</xmin>
+        <ymin>55.10802595474488186</ymin>
+        <xmax>10.54349448393723065</xmax>
+        <ymax>55.10924866902745833</ymax>
       </wgs84extent>
-      <id>Beskyttet_natur_98057db5_ffac_4138_98b1_501f0820de3d</id>
+      <id>Beskyttet_natur_21577ce6_aabd_4d66_988f_5fa7185b6c7f</id>
       <datasource>./Beskyttet_natur.shp</datasource>
       <layername>Beskyttet_natur</layername>
       <srs>
@@ -2036,6 +2036,15 @@
         <type>dataset</type>
         <title></title>
         <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
         <links/>
         <dates/>
         <fees></fees>
@@ -2053,7 +2062,15 @@
             <geographicflag>false</geographicflag>
           </spatialrefsys>
         </crs>
-        <extent/>
+        <extent>
+          <spatial maxy="-179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" maxx="-179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" minz="0" maxz="0" dimensions="2" crs="EPSG:25832" minx="179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" miny="179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
       </resourceMetadata>
       <provider encoding="UTF-8">ogr</provider>
       <vectorjoins/>
@@ -2093,7 +2110,7 @@
                 <Option value="collection" type="QString" name="type"/>
               </Option>
             </data_defined_properties>
-            <layer enabled="1" locked="0" pass="0" class="SimpleLine" id="{734af1d7-3b4e-463d-bbc4-134419b829fa}">
+            <layer enabled="1" locked="0" pass="0" class="SimpleLine" id="{6d5f0a30-e90e-4565-abaf-05f208e496bb}">
               <Option type="Map">
                 <Option value="0" type="QString" name="align_dash_pattern"/>
                 <Option value="square" type="QString" name="capstyle"/>
@@ -2105,7 +2122,7 @@
                 <Option value="MM" type="QString" name="dash_pattern_offset_unit"/>
                 <Option value="0" type="QString" name="draw_inside_polygon"/>
                 <Option value="bevel" type="QString" name="joinstyle"/>
-                <Option value="255,158,23,255,rgb:1,0.6196078,0.0901961,1" type="QString" name="line_color"/>
+                <Option value="141,90,153,255,rgb:0.5529412,0.3529412,0.6,1" type="QString" name="line_color"/>
                 <Option value="solid" type="QString" name="line_style"/>
                 <Option value="0.6" type="QString" name="line_width"/>
                 <Option value="MM" type="QString" name="line_width_unit"/>
@@ -2142,15 +2159,15 @@
                 <Option value="collection" type="QString" name="type"/>
               </Option>
             </data_defined_properties>
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill" id="{dc201621-5b4f-478c-90e8-f6a818735fa2}">
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill" id="{16996612-c94f-453d-92e4-6dfe5ddf3ce6}">
               <Option type="Map">
                 <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
-                <Option value="255,158,23,255,rgb:1,0.6196078,0.0901961,1" type="QString" name="color"/>
+                <Option value="141,90,153,255,rgb:0.5529412,0.3529412,0.6,1" type="QString" name="color"/>
                 <Option value="bevel" type="QString" name="joinstyle"/>
                 <Option value="0,0" type="QString" name="offset"/>
                 <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
                 <Option value="MM" type="QString" name="offset_unit"/>
-                <Option value="182,113,16,255,rgb:0.7142748,0.4425269,0.0644236,1" type="QString" name="outline_color"/>
+                <Option value="101,64,109,255,rgb:0.3949493,0.2520943,0.4285649,1" type="QString" name="outline_color"/>
                 <Option value="solid" type="QString" name="outline_style"/>
                 <Option value="0.2" type="QString" name="outline_width"/>
                 <Option value="MM" type="QString" name="outline_width_unit"/>
@@ -2175,18 +2192,18 @@
                 <Option value="collection" type="QString" name="type"/>
               </Option>
             </data_defined_properties>
-            <layer enabled="1" locked="0" pass="0" class="SimpleMarker" id="{848d9f0c-65bb-497c-b289-e138dda2648a}">
+            <layer enabled="1" locked="0" pass="0" class="SimpleMarker" id="{0e0554e1-8b87-45a7-91aa-74254fa65ab7}">
               <Option type="Map">
                 <Option value="0" type="QString" name="angle"/>
                 <Option value="square" type="QString" name="cap_style"/>
-                <Option value="255,158,23,255,rgb:1,0.6196078,0.0901961,1" type="QString" name="color"/>
+                <Option value="141,90,153,255,rgb:0.5529412,0.3529412,0.6,1" type="QString" name="color"/>
                 <Option value="1" type="QString" name="horizontal_anchor_point"/>
                 <Option value="bevel" type="QString" name="joinstyle"/>
                 <Option value="diamond" type="QString" name="name"/>
                 <Option value="0,0" type="QString" name="offset"/>
                 <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
                 <Option value="MM" type="QString" name="offset_unit"/>
-                <Option value="182,113,16,255,rgb:0.7142748,0.4425269,0.0644236,1" type="QString" name="outline_color"/>
+                <Option value="101,64,109,255,rgb:0.3949493,0.2520943,0.4285649,1" type="QString" name="outline_color"/>
                 <Option value="solid" type="QString" name="outline_style"/>
                 <Option value="0.2" type="QString" name="outline_width"/>
                 <Option value="3x:0,0,0,0,0,0" type="QString" name="outline_width_map_unit_scale"/>
@@ -2210,7 +2227,7 @@
       </elevation>
       <renderer-v2 type="singleSymbol" referencescale="-1" enableorderby="0" symbollevels="0" forceraster="0">
         <symbols>
-          <symbol force_rhr="0" is_animated="0" type="fill" alpha="1" name="0" frame_rate="10" clip_to_extent="1">
+          <symbol force_rhr="0" is_animated="0" type="fill" alpha="0.678" name="0" frame_rate="10" clip_to_extent="1">
             <data_defined_properties>
               <Option type="Map">
                 <Option value="" type="QString" name="name"/>
@@ -2218,10 +2235,10 @@
                 <Option value="collection" type="QString" name="type"/>
               </Option>
             </data_defined_properties>
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill" id="{ef1dd2f5-6865-4179-9d6c-95a8b40b6834}">
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill" id="{41180225-5fa7-422a-94c7-5d757384cb1e}">
               <Option type="Map">
                 <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
-                <Option value="232,113,141,255,rgb:0.9098039,0.4431373,0.5529412,1" type="QString" name="color"/>
+                <Option value="246,133,110,255,hsv:0.0275,0.55126268406195167,0.96359197375448236,1" type="QString" name="color"/>
                 <Option value="bevel" type="QString" name="joinstyle"/>
                 <Option value="0,0" type="QString" name="offset"/>
                 <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
@@ -2254,18 +2271,59 @@
       </renderer-v2>
       <selection mode="Default">
         <selectionColor invalid="1"/>
+        <selectionSymbol>
+          <symbol force_rhr="0" is_animated="0" type="fill" alpha="1" name="" frame_rate="10" clip_to_extent="1">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option value="" type="QString" name="name"/>
+                <Option name="properties"/>
+                <Option value="collection" type="QString" name="type"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill" id="{0c5bcdbf-4a08-42fc-bf8b-5f536da3c8b3}">
+              <Option type="Map">
+                <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+                <Option value="0,0,255,255,rgb:0,0,1,1" type="QString" name="color"/>
+                <Option value="bevel" type="QString" name="joinstyle"/>
+                <Option value="0,0" type="QString" name="offset"/>
+                <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+                <Option value="MM" type="QString" name="offset_unit"/>
+                <Option value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1" type="QString" name="outline_color"/>
+                <Option value="solid" type="QString" name="outline_style"/>
+                <Option value="0.26" type="QString" name="outline_width"/>
+                <Option value="MM" type="QString" name="outline_width_unit"/>
+                <Option value="solid" type="QString" name="style"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option value="" type="QString" name="name"/>
+                  <Option name="properties"/>
+                  <Option value="collection" type="QString" name="type"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </selectionSymbol>
       </selection>
       <customproperties>
-        <Option/>
+        <Option type="Map">
+          <Option value="0" type="int" name="embeddedWidgets/count"/>
+          <Option name="variableNames"/>
+          <Option name="variableValues"/>
+        </Option>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
       <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
-        <activeChecks type="StringList">
-          <Option value="" type="QString"/>
-        </activeChecks>
-        <checkConfiguration/>
+        <activeChecks/>
+        <checkConfiguration type="Map">
+          <Option type="Map" name="QgsGeometryGapCheck">
+            <Option value="0" type="double" name="allowedGapsBuffer"/>
+            <Option value="false" type="bool" name="allowedGapsEnabled"/>
+            <Option value="" type="QString" name="allowedGapsLayer"/>
+          </Option>
+        </checkConfiguration>
       </geometryOptions>
       <legend type="default-vector" showLabelLegend="0"/>
       <referencedLayers/>
@@ -2280,7 +2338,9 @@
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
       <attributetableconfig sortOrder="0" actionWidgetStyle="dropDown" sortExpression="">
-        <columns/>
+        <columns>
+          <column type="actions" hidden="1" width="-1"/>
+        </columns>
       </attributetableconfig>
       <conditionalstyles>
         <rowstyles/>
@@ -2291,7 +2351,23 @@
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
       <editforminitfilepath></editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+    geom = feature.geometry()
+    control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
       <editable/>
@@ -35776,7 +35852,7 @@ def my_form_open(dialog, layer, feature):
     <layer id="_d6c93f6b_9874_4a4b_8425_c7241412f39d"/>
     <layer id="_13629d95_d30d_49a0_9e3a_a147a090fb37"/>
     <layer id="_de7fdcfc_b087_4712_b9bc_113e2e48d6e6"/>
-    <layer id="Beskyttet_natur_98057db5_ffac_4138_98b1_501f0820de3d"/>
+    <layer id="Beskyttet_natur_21577ce6_aabd_4d66_988f_5fa7185b6c7f"/>
   </layerorder>
   <labelEngineSettings/>
   <properties>
@@ -35858,7 +35934,7 @@ def my_form_open(dialog, layer, feature):
   <Sensors/>
   <ProjectViewSettings UseProjectScales="0" rotation="0">
     <Scales/>
-    <DefaultViewExtent xmin="598260.40517571626696736" xmax="598428.66758706385735422" ymax="6107971.19919983204454184" ymin="6107871.19919983204454184">
+    <DefaultViewExtent xmin="598253.57893458160106093" xmax="598464.21723245398607105" ymax="6107971.02189486473798752" ymin="6107871.02189486473798752">
       <spatialrefsys nativeFormat="Wkt">
         <wkt>PROJCRS["ETRS89 / UTM zone 32N",BASEGEOGCRS["ETRS89",ENSEMBLE["European Terrestrial Reference System 1989 ensemble",MEMBER["European Terrestrial Reference Frame 1989"],MEMBER["European Terrestrial Reference Frame 1990"],MEMBER["European Terrestrial Reference Frame 1991"],MEMBER["European Terrestrial Reference Frame 1992"],MEMBER["European Terrestrial Reference Frame 1993"],MEMBER["European Terrestrial Reference Frame 1994"],MEMBER["European Terrestrial Reference Frame 1996"],MEMBER["European Terrestrial Reference Frame 1997"],MEMBER["European Terrestrial Reference Frame 2000"],MEMBER["European Terrestrial Reference Frame 2005"],MEMBER["European Terrestrial Reference Frame 2014"],ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[0.1]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4258]],CONVERSION["UTM zone 32N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",9,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["Europe between 6°E and 12°E: Austria; Belgium; Denmark - onshore and offshore; Germany - onshore and offshore; Norway including - onshore and offshore; Spain - offshore."],BBOX[38.76,6,84.33,12]],ID["EPSG",25832]]</wkt>
         <proj4>+proj=utm +zone=32 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
@@ -35923,7 +35999,7 @@ def my_form_open(dialog, layer, feature):
       </spatialrefsys>
     </CoordinateCustomCrs>
   </ProjectDisplaySettings>
-  <ProjectGpsSettings autoAddTrackVertices="0" autoCommitFeatures="0" destinationLayer="" destinationFollowsActiveLayer="1">
+  <ProjectGpsSettings autoAddTrackVertices="0" destinationLayerName="Huse" autoCommitFeatures="0" destinationLayer="Huse_58a2aebb_39d1_436e_962d_b10acfeeb4a8" destinationLayerProvider="ogr" destinationFollowsActiveLayer="1" destinationLayerSource="/home/jakokar/projects/github/karstenjakobsen/kunja-project/qgis/Huse.shp|option:AUTO_REPACK=YES">
     <timeStampFields/>
   </ProjectGpsSettings>
 </qgis>
