@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="3.44.7-Solothurn" saveUser="jakokar" projectname="" saveDateTime="2026-03-31T06:12:33" saveUserFull="Karsten Jakobsen">
+<qgis version="3.44.7-Solothurn" saveUser="jakokar" projectname="" saveDateTime="2026-03-31T06:13:00" saveUserFull="Karsten Jakobsen">
   <homePath path=""/>
   <title></title>
   <transaction mode="Disabled"/>
@@ -35,12 +35,12 @@
     <customproperties>
       <Option/>
     </customproperties>
-    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="ogr" expanded="1" legend_exp="" checked="Qt::Checked" id="Friarealer_63fcc8e1_7a4f_4ab1_b38f_84c00670c509" source="./Friarealer.shp" name="Friarealer">
+    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="ogr" expanded="0" legend_exp="" checked="Qt::Checked" id="Friarealer_63fcc8e1_7a4f_4ab1_b38f_84c00670c509" source="./Friarealer.shp" name="Friarealer">
       <customproperties>
         <Option/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="ogr" expanded="1" legend_exp="" checked="Qt::Checked" id="Parkering_129f493f_89df_4a39_a31d_65e0882f87e9" source="./Parkering.shp" name="Parkering">
+    <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="ogr" expanded="0" legend_exp="" checked="Qt::Checked" id="Parkering_129f493f_89df_4a39_a31d_65e0882f87e9" source="./Parkering.shp" name="Parkering">
       <customproperties>
         <Option/>
       </customproperties>
@@ -1100,13 +1100,13 @@
   </mapcanvas>
   <projectModels/>
   <legend updateDrawingOrder="true">
-    <legendlayer showFeatureCount="0" open="true" drawingOrder="-1" checked="Qt::Checked" name="Friarealer">
-      <filegroup open="true" hidden="false">
+    <legendlayer showFeatureCount="0" open="false" drawingOrder="-1" checked="Qt::Checked" name="Friarealer">
+      <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" visible="1" layerid="Friarealer_63fcc8e1_7a4f_4ab1_b38f_84c00670c509"/>
       </filegroup>
     </legendlayer>
-    <legendlayer showFeatureCount="0" open="true" drawingOrder="-1" checked="Qt::Checked" name="Parkering">
-      <filegroup open="true" hidden="false">
+    <legendlayer showFeatureCount="0" open="false" drawingOrder="-1" checked="Qt::Checked" name="Parkering">
+      <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" visible="1" layerid="Parkering_129f493f_89df_4a39_a31d_65e0882f87e9"/>
       </filegroup>
     </legendlayer>
@@ -3618,16 +3618,16 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer geometry="Polygon" simplifyAlgorithm="0" wkbType="MultiPolygon" type="vector" simplifyMaxScale="1" labelsEnabled="0" autoRefreshTime="0" legendPlaceholderImage="" minScale="100000000" symbologyReferenceScale="-1" autoRefreshMode="Disabled" simplifyDrawingTol="1" refreshOnNotifyMessage="" simplifyLocal="1" maxScale="0" simplifyDrawingHints="1" readOnly="0" styleCategories="AllStyleCategories" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0">
       <extent>
-        <xmin>598262.24539007095154375</xmin>
-        <ymin>6107905.42090595606714487</ymin>
-        <xmax>598400.21727449889294803</xmax>
-        <ymax>6107967.41914893593639135</ymax>
+        <xmin>598259.72302978881634772</xmin>
+        <ymin>6107901.99325206689536572</ymin>
+        <xmax>598408.59004361438564956</xmax>
+        <ymax>6107970.09358932822942734</ymax>
       </extent>
       <wgs84extent>
-        <xmin>10.5403110373187463</xmin>
-        <ymin>55.10808295319208128</ymin>
-        <xmax>10.54249440060526766</xmax>
-        <ymax>55.10866723960312186</ymax>
+        <xmin>10.54027032940052777</xmin>
+        <ymin>55.10805050127819982</ymin>
+        <xmax>10.54262652242917397</xmax>
+        <ymax>55.10869176388820989</ymax>
       </wgs84extent>
       <id>Huse_58a2aebb_39d1_436e_962d_b10acfeeb4a8</id>
       <datasource>./Huse.shp|option:AUTO_REPACK=YES</datasource>
@@ -3652,6 +3652,15 @@ def my_form_open(dialog, layer, feature):
         <type>dataset</type>
         <title></title>
         <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
         <links/>
         <dates/>
         <fees></fees>
@@ -3669,7 +3678,15 @@ def my_form_open(dialog, layer, feature):
             <geographicflag>false</geographicflag>
           </spatialrefsys>
         </crs>
-        <extent/>
+        <extent>
+          <spatial maxy="-179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" maxx="-179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" minz="0" maxz="0" dimensions="2" crs="EPSG:25832" minx="179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" miny="179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
       </resourceMetadata>
       <provider encoding="ISO-8859-1">ogr</provider>
       <vectorjoins/>
@@ -3686,7 +3703,7 @@ def my_form_open(dialog, layer, feature):
         <Searchable>1</Searchable>
         <Private>0</Private>
       </flags>
-      <temporal startField="" durationField="" fixedDuration="0" enabled="0" endField="" accumulate="0" mode="0" startExpression="" durationUnit="min" limitMode="0" endExpression="">
+      <temporal startField="" durationField="id" fixedDuration="0" enabled="0" endField="" accumulate="0" mode="0" startExpression="" durationUnit="min" limitMode="0" endExpression="">
         <fixedRange>
           <start></start>
           <end></end>
@@ -3837,7 +3854,7 @@ def my_form_open(dialog, layer, feature):
             <layer enabled="1" locked="0" pass="0" class="SimpleFill" id="{a704e97e-5f00-4c4a-9ab3-ca9a2863d46a}">
               <Option type="Map">
                 <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
-                <Option value="196,60,57,255,rgb:0.7686275,0.2352941,0.2235294,1" type="QString" name="color"/>
+                <Option value="152,86,63,255,hsv:0.04341666666666667,0.5873044937819486,0.59450675211718929,1" type="QString" name="color"/>
                 <Option value="bevel" type="QString" name="joinstyle"/>
                 <Option value="0,0" type="QString" name="offset"/>
                 <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
@@ -3880,7 +3897,7 @@ def my_form_open(dialog, layer, feature):
                 <layer enabled="1" locked="0" pass="0" class="SimpleFill" id="{afstand-fill}">
                   <Option type="Map">
                     <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
-                    <Option value="0,0,0,0,rgb:0,0,0,0" type="QString" name="color"/>
+                    <Option value="152,86,63,255,hsv:0.04341666666666667,0.5873044937819486,0.59450675211718929,1" type="QString" name="color"/>
                     <Option value="bevel" type="QString" name="joinstyle"/>
                     <Option value="0,0" type="QString" name="offset"/>
                     <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
@@ -3915,32 +3932,73 @@ def my_form_open(dialog, layer, feature):
       </renderer-v2>
       <selection mode="Default">
         <selectionColor invalid="1"/>
+        <selectionSymbol>
+          <symbol force_rhr="0" is_animated="0" type="fill" alpha="1" name="" frame_rate="10" clip_to_extent="1">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option value="" type="QString" name="name"/>
+                <Option name="properties"/>
+                <Option value="collection" type="QString" name="type"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" pass="0" class="SimpleFill" id="{47701ff3-ecac-4b29-a91f-af09c11b1669}">
+              <Option type="Map">
+                <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+                <Option value="0,0,255,255,rgb:0,0,1,1" type="QString" name="color"/>
+                <Option value="bevel" type="QString" name="joinstyle"/>
+                <Option value="0,0" type="QString" name="offset"/>
+                <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+                <Option value="MM" type="QString" name="offset_unit"/>
+                <Option value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1" type="QString" name="outline_color"/>
+                <Option value="solid" type="QString" name="outline_style"/>
+                <Option value="0.26" type="QString" name="outline_width"/>
+                <Option value="MM" type="QString" name="outline_width_unit"/>
+                <Option value="solid" type="QString" name="style"/>
+              </Option>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option value="" type="QString" name="name"/>
+                  <Option name="properties"/>
+                  <Option value="collection" type="QString" name="type"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </selectionSymbol>
       </selection>
       <customproperties>
-        <Option/>
+        <Option type="Map">
+          <Option value="0" type="int" name="embeddedWidgets/count"/>
+          <Option name="variableNames"/>
+          <Option name="variableValues"/>
+        </Option>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
       <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
-        <activeChecks type="StringList">
-          <Option value="" type="QString"/>
-        </activeChecks>
-        <checkConfiguration/>
+        <activeChecks/>
+        <checkConfiguration type="Map">
+          <Option type="Map" name="QgsGeometryGapCheck">
+            <Option value="0" type="double" name="allowedGapsBuffer"/>
+            <Option value="false" type="bool" name="allowedGapsEnabled"/>
+            <Option value="" type="QString" name="allowedGapsLayer"/>
+          </Option>
+        </checkConfiguration>
       </geometryOptions>
       <legend type="default-vector" showLabelLegend="0"/>
       <referencedLayers/>
       <referencingLayers/>
       <fieldConfiguration>
         <field configurationFlags="NoFlag" name="id">
-          <editWidget type="">
+          <editWidget type="Range">
             <config>
               <Option/>
             </config>
           </editWidget>
         </field>
         <field configurationFlags="NoFlag" name="type">
-          <editWidget type="">
+          <editWidget type="TextEdit">
             <config>
               <Option/>
             </config>
@@ -3968,7 +4026,11 @@ def my_form_open(dialog, layer, feature):
         <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
       <attributetableconfig sortOrder="0" actionWidgetStyle="dropDown" sortExpression="">
-        <columns/>
+        <columns>
+          <column type="field" hidden="0" name="id" width="-1"/>
+          <column type="field" hidden="0" name="type" width="-1"/>
+          <column type="actions" hidden="1" width="-1"/>
+        </columns>
       </attributetableconfig>
       <conditionalstyles>
         <rowstyles/>
@@ -3979,15 +4041,40 @@ def my_form_open(dialog, layer, feature):
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
       <editforminitfilepath></editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+    geom = feature.geometry()
+    control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
-      <editable/>
-      <labelOnTop/>
-      <reuseLastValue/>
+      <editable>
+        <field editable="1" name="id"/>
+        <field editable="1" name="type"/>
+      </editable>
+      <labelOnTop>
+        <field labelOnTop="0" name="id"/>
+        <field labelOnTop="0" name="type"/>
+      </labelOnTop>
+      <reuseLastValue>
+        <field name="id" reuseLastValue="0"/>
+        <field name="type" reuseLastValue="0"/>
+      </reuseLastValue>
       <dataDefinedFieldProperties/>
       <widgets/>
-      <previewExpression></previewExpression>
+      <previewExpression>"type"</previewExpression>
       <mapTip enabled="1"></mapTip>
     </maplayer>
     <maplayer hasScaleBasedVisibilityFlag="1" autoRefreshMode="Disabled" maxScale="0" styleCategories="AllStyleCategories" type="raster" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" autoRefreshTime="0" legendPlaceholderImage="" minScale="43000">
@@ -37031,7 +37118,7 @@ def my_form_open(dialog, layer, feature):
       </spatialrefsys>
     </CoordinateCustomCrs>
   </ProjectDisplaySettings>
-  <ProjectGpsSettings autoAddTrackVertices="0" destinationLayerName="Parkering" autoCommitFeatures="0" destinationLayer="Parkering_129f493f_89df_4a39_a31d_65e0882f87e9" destinationLayerProvider="ogr" destinationFollowsActiveLayer="1" destinationLayerSource="/home/jakokar/projects/github/karstenjakobsen/kunja-project/qgis/Parkering.shp">
+  <ProjectGpsSettings autoAddTrackVertices="0" destinationLayerName="Huse" autoCommitFeatures="0" destinationLayer="Huse_58a2aebb_39d1_436e_962d_b10acfeeb4a8" destinationLayerProvider="ogr" destinationFollowsActiveLayer="1" destinationLayerSource="/home/jakokar/projects/github/karstenjakobsen/kunja-project/qgis/Huse.shp|option:AUTO_REPACK=YES">
     <timeStampFields/>
   </ProjectGpsSettings>
 </qgis>
